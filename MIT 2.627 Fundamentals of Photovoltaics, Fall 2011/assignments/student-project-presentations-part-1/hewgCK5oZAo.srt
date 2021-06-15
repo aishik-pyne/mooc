@@ -1,0 +1,6293 @@
+1
+00:00:00,060 --> 00:00:02,500
+The following content is
+provided under a Creative
+
+2
+00:00:02,500 --> 00:00:04,010
+Commons license.
+
+3
+00:00:04,010 --> 00:00:06,350
+Your support will help
+MIT OpenCourseWare
+
+4
+00:00:06,350 --> 00:00:10,720
+continue to offer high quality
+educational resources for free.
+
+5
+00:00:10,720 --> 00:00:13,340
+To make a donation or
+view additional materials
+
+6
+00:00:13,340 --> 00:00:17,209
+from hundreds of MIT courses,
+visit MIT OpenCourseWare
+
+7
+00:00:17,209 --> 00:00:17,834
+at ocw.mit.edu.
+
+8
+00:00:26,110 --> 00:00:27,920
+PROFESSOR: Final
+presentations should
+
+9
+00:00:27,920 --> 00:00:30,650
+be very exciting--
+fruits of your labor
+
+10
+00:00:30,650 --> 00:00:32,540
+over the entire
+semester in reality.
+
+11
+00:00:32,540 --> 00:00:34,642
+The fundamentals
+in the first third,
+
+12
+00:00:34,642 --> 00:00:37,100
+the technologies in the second,
+gearing up toward the cross
+
+13
+00:00:37,100 --> 00:00:38,430
+cutting themes in the third.
+
+14
+00:00:38,430 --> 00:00:41,070
+I understand that we've
+had an accelerated project
+
+15
+00:00:41,070 --> 00:00:42,960
+schedule this semester.
+
+16
+00:00:42,960 --> 00:00:45,250
+We've completed
+the entire projects
+
+17
+00:00:45,250 --> 00:00:47,670
+over the duration of
+about a month and a half,
+
+18
+00:00:47,670 --> 00:00:50,530
+so you are to be congratulated
+for your hard work
+
+19
+00:00:50,530 --> 00:00:54,430
+in a very intense period of
+time McKenzie tiger team style.
+
+20
+00:00:54,430 --> 00:00:57,350
+For that, I reward you
+with doughnuts and coffee
+
+21
+00:00:57,350 --> 00:00:58,060
+over there.
+
+22
+00:00:58,060 --> 00:01:00,101
+I understand many of you
+were up late last night,
+
+23
+00:01:00,101 --> 00:01:02,690
+so you're welcome to ingest
+some shortchange carbohydrates
+
+24
+00:01:02,690 --> 00:01:04,510
+and some caffeine.
+
+25
+00:01:04,510 --> 00:01:07,140
+If you would like to
+get some, get it now.
+
+26
+00:01:07,140 --> 00:01:09,390
+We're going to have another
+minute of blah, blah, blah
+
+27
+00:01:09,390 --> 00:01:10,931
+before we dive into
+the presentations
+
+28
+00:01:10,931 --> 00:01:12,280
+and the real fun begins.
+
+29
+00:01:12,280 --> 00:01:14,340
+I'd like to introduce
+our panelists up here
+
+30
+00:01:14,340 --> 00:01:17,230
+in the front who will be
+the evaluation criteria
+
+31
+00:01:17,230 --> 00:01:20,120
+a la American Idol style,
+except that you're, of course,
+
+32
+00:01:20,120 --> 00:01:23,750
+a lot smarter and
+equally well dressed.
+
+33
+00:01:23,750 --> 00:01:25,540
+Starting from right
+to left in front of me
+
+34
+00:01:25,540 --> 00:01:29,870
+we have Dr. Jasmin Hofstetter,
+who comes from IES, Spain.
+
+35
+00:01:29,870 --> 00:01:32,460
+That's the Institute for
+Solar Energy in Spain.
+
+36
+00:01:32,460 --> 00:01:34,955
+That's where she did her
+PhD with Antonio Luque.
+
+37
+00:01:34,955 --> 00:01:37,330
+Those who have been studying
+intermediate band solar cell
+
+38
+00:01:37,330 --> 00:01:39,520
+materials may know
+the name as one
+
+39
+00:01:39,520 --> 00:01:41,270
+of the fathers of the field.
+
+40
+00:01:41,270 --> 00:01:44,110
+She studied under Antonio
+Luque's organization
+
+41
+00:01:44,110 --> 00:01:49,500
+with Carlos de Canizo and is the
+winner of presentation awards
+
+42
+00:01:49,500 --> 00:01:51,840
+at scientific
+conferences, among others,
+
+43
+00:01:51,840 --> 00:01:53,680
+so Jasmin is welcome here.
+
+44
+00:01:53,680 --> 00:01:56,050
+We have thought that Dr.
+Mark Winkler, as well,
+
+45
+00:01:56,050 --> 00:01:59,390
+a PhD in Eric Mazur's
+laboratory at Harvard.
+
+46
+00:01:59,390 --> 00:02:01,270
+Those who are familiar
+with femtosecond laser
+
+47
+00:02:01,270 --> 00:02:04,510
+characterization may be familiar
+with Eric Mazur, also one
+
+48
+00:02:04,510 --> 00:02:05,970
+of the fathers of the field.
+
+49
+00:02:05,970 --> 00:02:08,690
+Mark started the Harvard
+Journal Energy Club,
+
+50
+00:02:08,690 --> 00:02:12,250
+which is Harvard's version of
+the MIT Energy Club-- a lot
+
+51
+00:02:12,250 --> 00:02:15,340
+smaller and a lot less
+dynamic than MIT's version,
+
+52
+00:02:15,340 --> 00:02:18,060
+but nevertheless to
+be congratulated.
+
+53
+00:02:18,060 --> 00:02:20,690
+And of course, a very
+good organization.
+
+54
+00:02:20,690 --> 00:02:21,190
+I kid.
+
+55
+00:02:21,190 --> 00:02:23,780
+There's a little bit
+of MIT Harvard rivalry.
+
+56
+00:02:23,780 --> 00:02:25,570
+And of course, our
+very own Joe Sullivan,
+
+57
+00:02:25,570 --> 00:02:28,200
+who has been with you
+the entire semester.
+
+58
+00:02:28,200 --> 00:02:30,190
+For those who might
+not be familiar as much
+
+59
+00:02:30,190 --> 00:02:32,920
+with this research as you
+are with his teaching,
+
+60
+00:02:32,920 --> 00:02:36,670
+Joe is studying intermediate
+band solar cell materials here
+
+61
+00:02:36,670 --> 00:02:39,350
+at MIT in the Media Lab
+and has been working
+
+62
+00:02:39,350 --> 00:02:41,040
+for the last-- what is it now?
+
+63
+00:02:41,040 --> 00:02:41,510
+JOE SULLIVAN: Three and a half.
+
+64
+00:02:41,510 --> 00:02:42,968
+PROFESSOR: Three
+and a half years--
+
+65
+00:02:42,968 --> 00:02:45,250
+focused on intermediate
+band solar cell materials,
+
+66
+00:02:45,250 --> 00:02:48,200
+coming from a very broad
+background in energy
+
+67
+00:02:48,200 --> 00:02:50,430
+from climate science.
+
+68
+00:02:50,430 --> 00:02:54,680
+So with that, I'd like to
+welcome our first team down,
+
+69
+00:02:54,680 --> 00:02:56,930
+and the floor is yours.
+
+70
+00:02:56,930 --> 00:03:00,400
+STUDENT 1: Good morning, we are
+the PV smart retrofit group,
+
+71
+00:03:00,400 --> 00:03:04,300
+and our project goal was
+to assess whether or not
+
+72
+00:03:04,300 --> 00:03:06,540
+the there was an
+electrical benefit
+
+73
+00:03:06,540 --> 00:03:10,210
+or loss from retrofitting an
+old home with a PV system.
+
+74
+00:03:10,210 --> 00:03:12,590
+Now, in less lofty terms,
+it essentially means
+
+75
+00:03:12,590 --> 00:03:14,450
+from an on site
+energy perspective,
+
+76
+00:03:14,450 --> 00:03:18,110
+does it make sense to put
+PV panels on my house?
+
+77
+00:03:18,110 --> 00:03:20,540
+You'd think that that's a
+kind of an obvious question.
+
+78
+00:03:20,540 --> 00:03:22,240
+We'd all say, well, yeah.
+
+79
+00:03:22,240 --> 00:03:25,460
+We produce energy for
+free, except that you
+
+80
+00:03:25,460 --> 00:03:27,977
+have to consider other
+things, such as shading
+
+81
+00:03:27,977 --> 00:03:29,560
+from trees that you'd
+have to cut down
+
+82
+00:03:29,560 --> 00:03:31,685
+or the color of the roof
+that you might be changing
+
+83
+00:03:31,685 --> 00:03:33,400
+by adding a black panel.
+
+84
+00:03:33,400 --> 00:03:35,900
+These would both reduce the
+thermal load of your house
+
+85
+00:03:35,900 --> 00:03:37,260
+in normal situation.
+
+86
+00:03:37,260 --> 00:03:40,470
+So by adding a PV panel and
+increasing the thermal load,
+
+87
+00:03:40,470 --> 00:03:43,090
+you actually add the
+energy to cool your house
+
+88
+00:03:43,090 --> 00:03:43,840
+during the summer.
+
+89
+00:03:46,410 --> 00:03:50,350
+We considered multiple
+variables in this project.
+
+90
+00:03:50,350 --> 00:03:53,010
+One was location, which
+has an effect on the amount
+
+91
+00:03:53,010 --> 00:03:54,870
+of sunlight you're receiving.
+
+92
+00:03:54,870 --> 00:03:57,990
+The PV panel's
+presence and its size.
+
+93
+00:03:57,990 --> 00:04:00,060
+We had a couple of
+situations where
+
+94
+00:04:00,060 --> 00:04:03,650
+there was no panel as
+a kind of a baseline.
+
+95
+00:04:03,650 --> 00:04:07,540
+And then also different sizes
+to figure out if a bigger
+
+96
+00:04:07,540 --> 00:04:09,680
+panel had a bigger effect.
+
+97
+00:04:09,680 --> 00:04:12,280
+We looked at two different
+colors, black and white.
+
+98
+00:04:12,280 --> 00:04:14,760
+Those are the ends
+of the spectrum,
+
+99
+00:04:14,760 --> 00:04:17,250
+and they give us
+endpoints to look at,
+
+100
+00:04:17,250 --> 00:04:20,130
+and the color matters
+because a darker
+
+101
+00:04:20,130 --> 00:04:22,690
+color will absorb more heat.
+
+102
+00:04:22,690 --> 00:04:24,150
+We looked at roof pitch.
+
+103
+00:04:24,150 --> 00:04:26,250
+The reason for this--
+well, first off, roof pitch
+
+104
+00:04:26,250 --> 00:04:28,010
+is the angle of your roof.
+
+105
+00:04:28,010 --> 00:04:31,170
+And we looked at this because
+we assumed that our panels were
+
+106
+00:04:31,170 --> 00:04:33,570
+fixed and parallel to
+the roof, so this kind
+
+107
+00:04:33,570 --> 00:04:36,700
+of controlled what
+angle your solar panel
+
+108
+00:04:36,700 --> 00:04:38,532
+was facing towards the sun.
+
+109
+00:04:38,532 --> 00:04:40,240
+And finally you had
+your house footprint,
+
+110
+00:04:40,240 --> 00:04:42,230
+which is the area
+that the house covers,
+
+111
+00:04:42,230 --> 00:04:44,146
+and when you combine
+that with the roof pitch,
+
+112
+00:04:44,146 --> 00:04:46,197
+you get the area of the
+roof, which is really
+
+113
+00:04:46,197 --> 00:04:47,280
+what we're concerned with.
+
+114
+00:04:50,010 --> 00:04:52,940
+We had five
+scenarios, and as you
+
+115
+00:04:52,940 --> 00:04:54,840
+can see from our
+cute little diagrams,
+
+116
+00:04:54,840 --> 00:04:57,980
+we have a black
+roof, a white roof,
+
+117
+00:04:57,980 --> 00:05:01,990
+a white roof with the tree, a
+white roof with a solar panel,
+
+118
+00:05:01,990 --> 00:05:04,085
+and a white roof with a
+solar panel and a cut tree
+
+119
+00:05:04,085 --> 00:05:07,810
+so the solar panel is
+getting plenty of sunlight.
+
+120
+00:05:07,810 --> 00:05:09,520
+In evaluating the
+five scenarios,
+
+121
+00:05:09,520 --> 00:05:12,220
+we had three models of
+increasing complexity from left
+
+122
+00:05:12,220 --> 00:05:14,730
+to right, which you
+can note from the fact
+
+123
+00:05:14,730 --> 00:05:18,610
+that model one only
+covers three of the five,
+
+124
+00:05:18,610 --> 00:05:22,962
+and these models all
+had common assumptions.
+
+125
+00:05:22,962 --> 00:05:24,670
+The first was that
+you had a single story
+
+126
+00:05:24,670 --> 00:05:27,510
+house in a suburban
+locations, so you
+
+127
+00:05:27,510 --> 00:05:30,790
+didn't have shading from
+other buildings, for example.
+
+128
+00:05:30,790 --> 00:05:34,660
+We had a common house size of
+about 2000 square feet, or 186
+
+129
+00:05:34,660 --> 00:05:36,230
+square meters.
+
+130
+00:05:36,230 --> 00:05:38,210
+The roof pitch,
+which in construction
+
+131
+00:05:38,210 --> 00:05:42,060
+is set usually at 5/12,
+which means 5 inches of rise
+
+132
+00:05:42,060 --> 00:05:44,790
+for 12 inches of travel.
+
+133
+00:05:44,790 --> 00:05:46,490
+We had an unfinished
+attic space,
+
+134
+00:05:46,490 --> 00:05:48,470
+which means that it's
+sealed to the outside,
+
+135
+00:05:48,470 --> 00:05:52,360
+but you didn't make it
+livable, a five kilowatt PV
+
+136
+00:05:52,360 --> 00:05:55,870
+system covering
+36 square meters,
+
+137
+00:05:55,870 --> 00:06:00,960
+and we chose reflectance values
+of 0.08 for black and 0.35
+
+138
+00:06:00,960 --> 00:06:04,790
+for white, and this, again,
+reflects the effect that color
+
+139
+00:06:04,790 --> 00:06:07,800
+has on heat absorption.
+
+140
+00:06:07,800 --> 00:06:09,795
+With that, I will turn
+you over to, Jordan.
+
+141
+00:06:15,230 --> 00:06:16,980
+JORDAN: So the first
+one that we looked at
+
+142
+00:06:16,980 --> 00:06:20,830
+was basically using
+most readily available
+
+143
+00:06:20,830 --> 00:06:22,695
+and simple models there can be.
+
+144
+00:06:22,695 --> 00:06:26,170
+So this is from the
+Department of Energy
+
+145
+00:06:26,170 --> 00:06:28,770
+to measure-- well,
+to get a gauge of how
+
+146
+00:06:28,770 --> 00:06:31,460
+the color of the roof
+and the roof properties
+
+147
+00:06:31,460 --> 00:06:34,460
+affect the thermal
+loads in the house.
+
+148
+00:06:34,460 --> 00:06:36,100
+This is a simple one
+dimensional model
+
+149
+00:06:36,100 --> 00:06:39,760
+where you've got an inside
+cavity of 65 Fahrenheit,
+
+150
+00:06:39,760 --> 00:06:41,570
+and you basically
+input the location,
+
+151
+00:06:41,570 --> 00:06:49,010
+and from that it has a lookup
+table of the average insulation
+
+152
+00:06:49,010 --> 00:06:52,370
+on the house, as well as the
+number of heating degree days
+
+153
+00:06:52,370 --> 00:06:57,550
+and cooling degree days relative
+to that 65 inside temperature.
+
+154
+00:06:57,550 --> 00:06:59,300
+The other parameters
+are just at the roof,
+
+155
+00:06:59,300 --> 00:07:01,440
+so we insert the
+reflectance, and we're
+
+156
+00:07:01,440 --> 00:07:05,730
+using values that represent
+real tiles for an average house,
+
+157
+00:07:05,730 --> 00:07:08,760
+black and white, as well as the
+thermal resistance and the heat
+
+158
+00:07:08,760 --> 00:07:12,460
+absorbance of the tiles--
+from this model, the outputs
+
+159
+00:07:12,460 --> 00:07:16,270
+and the thermal loads
+in terms of the heating
+
+160
+00:07:16,270 --> 00:07:19,750
+you need to put in, as well
+as the cooling energy load.
+
+161
+00:07:22,760 --> 00:07:27,050
+So with the thermal
+model assessed,
+
+162
+00:07:27,050 --> 00:07:31,980
+we can assess the
+photovoltaic output.
+
+163
+00:07:31,980 --> 00:07:35,210
+And for this, we're just
+using a simple model PVWatts.
+
+164
+00:07:35,210 --> 00:07:40,790
+This basically takes in
+the location and the angle
+
+165
+00:07:40,790 --> 00:07:42,805
+of the panels, as well
+as a derate factor
+
+166
+00:07:42,805 --> 00:07:46,220
+from converting to AC to DC.
+
+167
+00:07:46,220 --> 00:07:50,324
+It's quite a simple model,
+and output from this
+
+168
+00:07:50,324 --> 00:07:51,990
+is the amount of
+kilowatt hours per year
+
+169
+00:07:51,990 --> 00:07:53,220
+that you get from the panels.
+
+170
+00:08:18,970 --> 00:08:22,880
+STUDENT 2: So I'll be talking
+about a couple thermal electric
+
+171
+00:08:22,880 --> 00:08:23,380
+model.
+
+172
+00:08:23,380 --> 00:08:26,720
+This is the model that
+we built in our group,
+
+173
+00:08:26,720 --> 00:08:28,890
+and we developed
+this model based
+
+174
+00:08:28,890 --> 00:08:32,600
+on two sets of
+individual parameters
+
+175
+00:08:32,600 --> 00:08:33,980
+and individual models.
+
+176
+00:08:33,980 --> 00:08:37,360
+I would say that one comprises
+of the thermal model,
+
+177
+00:08:37,360 --> 00:08:39,470
+and there is the electric model.
+
+178
+00:08:39,470 --> 00:08:42,559
+So what we need to note
+from this model here
+
+179
+00:08:42,559 --> 00:08:47,620
+is it's a further
+step in complexity
+
+180
+00:08:47,620 --> 00:08:52,000
+when compared to the module
+one that Jordan just discussed.
+
+181
+00:08:52,000 --> 00:08:55,080
+And it takes into account
+various input parameters
+
+182
+00:08:55,080 --> 00:08:57,880
+that the model one
+doesn't take into account.
+
+183
+00:08:57,880 --> 00:09:00,570
+So the basic structure of
+this model is as follows.
+
+184
+00:09:00,570 --> 00:09:02,960
+We have a thermal model
+which takes into account
+
+185
+00:09:02,960 --> 00:09:06,370
+several input conditions, such
+as the insulation and shading,
+
+186
+00:09:06,370 --> 00:09:09,820
+and it outputs a living
+space temperature,
+
+187
+00:09:09,820 --> 00:09:13,250
+which is this temperature of
+the living room in our house.
+
+188
+00:09:13,250 --> 00:09:16,510
+And then this temperature is fed
+into an electric model, which
+
+189
+00:09:16,510 --> 00:09:19,500
+calculates the cost
+and energy values,
+
+190
+00:09:19,500 --> 00:09:21,860
+and thus we can compare an
+energy production and energy
+
+191
+00:09:21,860 --> 00:09:23,310
+consumption.
+
+192
+00:09:23,310 --> 00:09:25,360
+Going to the thermal
+model in detail,
+
+193
+00:09:25,360 --> 00:09:27,700
+I've just shown a picture here.
+
+194
+00:09:27,700 --> 00:09:30,260
+So it considers
+basically when we
+
+195
+00:09:30,260 --> 00:09:33,930
+start from the top of the house,
+we use insulation and shading
+
+196
+00:09:33,930 --> 00:09:35,550
+as the input parameters.
+
+197
+00:09:35,550 --> 00:09:38,050
+We then calculate the
+temperature of the PV panel,
+
+198
+00:09:38,050 --> 00:09:39,890
+and then the
+temperature of the roof
+
+199
+00:09:39,890 --> 00:09:42,510
+using two different
+energy balance models.
+
+200
+00:09:42,510 --> 00:09:44,600
+And these two energy
+balance models
+
+201
+00:09:44,600 --> 00:09:46,840
+are pretty robust in the
+sense that they consider
+
+202
+00:09:46,840 --> 00:09:49,190
+all these physical phenomenon
+which are realistic,
+
+203
+00:09:49,190 --> 00:09:51,280
+such as the
+convection, radiation,
+
+204
+00:09:51,280 --> 00:09:54,250
+and PV electrical output.
+
+205
+00:09:54,250 --> 00:09:56,940
+And based on these
+energy balance equations,
+
+206
+00:09:56,940 --> 00:09:59,630
+we can calculate the PV
+panel temperature and then
+
+207
+00:09:59,630 --> 00:10:00,820
+the roof temperature.
+
+208
+00:10:00,820 --> 00:10:02,910
+And once we get these
+two temperatures,
+
+209
+00:10:02,910 --> 00:10:05,640
+we get the heat flux
+that goes into the roof
+
+210
+00:10:05,640 --> 00:10:07,350
+and that enters the attic.
+
+211
+00:10:07,350 --> 00:10:09,309
+And once you get
+this, we find out
+
+212
+00:10:09,309 --> 00:10:11,350
+the attic temperature,
+which then determines what
+
+213
+00:10:11,350 --> 00:10:12,790
+is the ceiling temperature.
+
+214
+00:10:12,790 --> 00:10:15,320
+And then we consider the
+convection via ceiling,
+
+215
+00:10:15,320 --> 00:10:18,250
+and then finally we end up with
+the living space temperature.
+
+216
+00:10:18,250 --> 00:10:20,560
+And then the couple this
+living space temperature
+
+217
+00:10:20,560 --> 00:10:23,840
+with another electric model,
+which I'll discuss now.
+
+218
+00:10:23,840 --> 00:10:28,200
+So the electric model is
+basically based on an ideal gas
+
+219
+00:10:28,200 --> 00:10:29,150
+assumption.
+
+220
+00:10:29,150 --> 00:10:31,330
+So it basically--
+what it does is
+
+221
+00:10:31,330 --> 00:10:34,490
+it calculates the energy
+needed by the AC, which
+
+222
+00:10:34,490 --> 00:10:36,470
+could be the heating
+or cooling, in order
+
+223
+00:10:36,470 --> 00:10:39,480
+to maintain the living space
+at a particular temperature.
+
+224
+00:10:39,480 --> 00:10:42,190
+And we use this formula,
+m dot Cp delta T,
+
+225
+00:10:42,190 --> 00:10:43,790
+which is an ideal
+gas formula, which
+
+226
+00:10:43,790 --> 00:10:47,190
+gives out the energy
+needed by the cooler.
+
+227
+00:10:47,190 --> 00:10:52,630
+And then so the electrical model
+uses the power consumption,
+
+228
+00:10:52,630 --> 00:10:57,210
+and then we know the power
+production through PV output.
+
+229
+00:10:57,210 --> 00:11:00,620
+So comparing these
+two, we can really
+
+230
+00:11:00,620 --> 00:11:04,520
+assess whether PV installation
+is favorable or not.
+
+231
+00:11:04,520 --> 00:11:07,600
+And this is just
+the model in making.
+
+232
+00:11:07,600 --> 00:11:09,950
+What we want to signify
+here is we actually
+
+233
+00:11:09,950 --> 00:11:12,030
+made this model on
+our own, and this
+
+234
+00:11:12,030 --> 00:11:13,620
+is the MATLAB code we wrote.
+
+235
+00:11:13,620 --> 00:11:17,530
+And the model not only just
+predicts energy values,
+
+236
+00:11:17,530 --> 00:11:19,330
+but it also can do
+a lot more things,
+
+237
+00:11:19,330 --> 00:11:21,090
+such as predicting temperature.
+
+238
+00:11:21,090 --> 00:11:23,440
+And what I've shown
+here is the PV output,
+
+239
+00:11:23,440 --> 00:11:25,780
+and then the cooling
+load that is required,
+
+240
+00:11:25,780 --> 00:11:28,270
+so it can do a lot of
+other things, as well.
+
+241
+00:11:28,270 --> 00:11:30,520
+This is the
+temperature of the roof
+
+242
+00:11:30,520 --> 00:11:32,960
+in terms of direct sunlight
+and diffuse sunlight.
+
+243
+00:11:32,960 --> 00:11:35,270
+So if anyone is
+interested, I'd be
+
+244
+00:11:35,270 --> 00:11:37,050
+happy to discuss with them more.
+
+245
+00:11:37,050 --> 00:11:37,760
+Thank you.
+
+246
+00:11:37,760 --> 00:11:39,510
+And I'll now pass
+it on to Heidi.
+
+247
+00:11:56,055 --> 00:11:57,680
+HEIDI: So I take over
+from here talking
+
+248
+00:11:57,680 --> 00:12:01,260
+about the third and most
+complex model that we used.
+
+249
+00:12:01,260 --> 00:12:04,930
+For this model, we used
+two different softwares--
+
+250
+00:12:04,930 --> 00:12:07,840
+one called BEopt from
+NREL, and the second,
+
+251
+00:12:07,840 --> 00:12:10,730
+called EnergyPlus,
+which you'll see later,
+
+252
+00:12:10,730 --> 00:12:13,080
+developed by the
+Department of Energy.
+
+253
+00:12:13,080 --> 00:12:15,760
+So what we did in this model
+was we took into account
+
+254
+00:12:15,760 --> 00:12:18,880
+the 3D effects of these
+thermal and electric loads
+
+255
+00:12:18,880 --> 00:12:22,220
+that have been talked about
+in the other two models.
+
+256
+00:12:22,220 --> 00:12:25,670
+The first thing we did was to
+actually model the 3D house,
+
+257
+00:12:25,670 --> 00:12:27,730
+as you can see right over here.
+
+258
+00:12:27,730 --> 00:12:31,750
+BEopt allows for a very nice
+interface, where you can easily
+
+259
+00:12:31,750 --> 00:12:34,790
+model the house and easily
+and put a whole bunch of input
+
+260
+00:12:34,790 --> 00:12:36,690
+parameters for the house.
+
+261
+00:12:36,690 --> 00:12:38,330
+And for these input
+parameters, we
+
+262
+00:12:38,330 --> 00:12:40,790
+consulted with an experienced
+building inspector
+
+263
+00:12:40,790 --> 00:12:44,770
+for the construction inputs
+and used BEopt default values
+
+264
+00:12:44,770 --> 00:12:47,840
+for the rest of the inputs.
+
+265
+00:12:47,840 --> 00:12:50,110
+Once this model of
+the house was done,
+
+266
+00:12:50,110 --> 00:12:54,760
+we had to actually
+export it into EnergyPlus
+
+267
+00:12:54,760 --> 00:13:02,590
+because EnergyPlus gives us
+a much more detailed look
+
+268
+00:13:02,590 --> 00:13:06,550
+into all these different
+parameters, I guess.
+
+269
+00:13:06,550 --> 00:13:08,990
+And you can actually go in
+and modify different things.
+
+270
+00:13:08,990 --> 00:13:13,530
+For the materials, we can
+modify every single material
+
+271
+00:13:13,530 --> 00:13:16,450
+property-- conductivity,
+density, specific heat--
+
+272
+00:13:16,450 --> 00:13:19,050
+and we actually did
+that for the roof.
+
+273
+00:13:19,050 --> 00:13:20,890
+And we also removed
+a whole bunch
+
+274
+00:13:20,890 --> 00:13:26,430
+of other miscellaneous loads
+that BEopt had included.
+
+275
+00:13:26,430 --> 00:13:29,600
+So this is how we modeled
+the trees and the panels
+
+276
+00:13:29,600 --> 00:13:33,090
+that we talked about in
+our scenarios before.
+
+277
+00:13:33,090 --> 00:13:36,910
+For the trees, we modelled
+them as these really large 5
+
+278
+00:13:36,910 --> 00:13:41,790
+by 20 meter rectangles that
+act as shading for the house.
+
+279
+00:13:41,790 --> 00:13:44,220
+So the trees are located on
+the south side of the house,
+
+280
+00:13:44,220 --> 00:13:46,250
+and we modelled them
+as deciduous trees,
+
+281
+00:13:46,250 --> 00:13:49,990
+so we set up a transmitting
+schedule so that they
+
+282
+00:13:49,990 --> 00:13:53,130
+have a higher transmittance in
+the winter when the leaves have
+
+283
+00:13:53,130 --> 00:13:55,640
+fallen and a low
+one in the summer.
+
+284
+00:13:55,640 --> 00:13:58,820
+And for the case of scenario
+E in which the trees are cut,
+
+285
+00:13:58,820 --> 00:14:03,030
+we modelled the trees as
+being five meters tall.
+
+286
+00:14:03,030 --> 00:14:05,920
+On the other hand,
+for the PV panel,
+
+287
+00:14:05,920 --> 00:14:09,330
+we modeled it as being
+fixed on the roof.
+
+288
+00:14:09,330 --> 00:14:12,980
+We actually had to completely
+change the model from BEopt,
+
+289
+00:14:12,980 --> 00:14:15,230
+because they modeled
+it as being decoupled
+
+290
+00:14:15,230 --> 00:14:19,670
+from the entire system, placed
+30 meters away from the house.
+
+291
+00:14:19,670 --> 00:14:23,160
+So we completely changed
+that, and we read extensively
+
+292
+00:14:23,160 --> 00:14:27,970
+into EnergyPlus literature and
+found this particular object--
+
+293
+00:14:27,970 --> 00:14:30,290
+I guess you could call
+it-- called the integrated
+
+294
+00:14:30,290 --> 00:14:32,820
+exterior vented cavity object.
+
+295
+00:14:32,820 --> 00:14:37,250
+And what this does is it
+models a surface as being,
+
+296
+00:14:37,250 --> 00:14:41,470
+in our case, 0.5 meters
+away from the roof,
+
+297
+00:14:41,470 --> 00:14:44,210
+and it models the convection
+and radiation between these two
+
+298
+00:14:44,210 --> 00:14:45,790
+surfaces.
+
+299
+00:14:45,790 --> 00:14:47,780
+We also considered
+the solar panel
+
+300
+00:14:47,780 --> 00:14:50,470
+to have a solar
+absorbance of 0.92
+
+301
+00:14:50,470 --> 00:15:06,320
+and thermal emissivity of 0.9.
+
+302
+00:15:06,320 --> 00:15:08,606
+STUDENT 3: And so
+we actually got
+
+303
+00:15:08,606 --> 00:15:10,230
+a lot of results, as
+you might imagine,
+
+304
+00:15:10,230 --> 00:15:12,120
+from all those different
+models, but just
+
+305
+00:15:12,120 --> 00:15:15,050
+for the purposes of comparison
+for the presentation,
+
+306
+00:15:15,050 --> 00:15:17,685
+we're just going to show
+you-- just summarize results.
+
+307
+00:15:17,685 --> 00:15:20,060
+And basically what we're
+showing you here is specifically
+
+308
+00:15:20,060 --> 00:15:22,990
+for Boston, and this
+figure that we're showing
+
+309
+00:15:22,990 --> 00:15:26,070
+is the y-axis is the
+relative energy gain.
+
+310
+00:15:26,070 --> 00:15:29,840
+So in order to compare them,
+we decided within each model
+
+311
+00:15:29,840 --> 00:15:32,070
+compare it to a
+common situation.
+
+312
+00:15:32,070 --> 00:15:35,410
+So we decided to say
+that, if we're in Boston,
+
+313
+00:15:35,410 --> 00:15:37,900
+let's say we start with
+a white roof and a tree,
+
+314
+00:15:37,900 --> 00:15:40,300
+so that's scenario C there,
+so that's why it's 0.
+
+315
+00:15:40,300 --> 00:15:42,500
+So everything is in
+comparison to that.
+
+316
+00:15:42,500 --> 00:15:45,210
+And right off, we could see
+that, as we might expect,
+
+317
+00:15:45,210 --> 00:15:49,050
+putting a PV on makes
+sense energetically.
+
+318
+00:15:49,050 --> 00:15:51,390
+And specifically
+scenario D, which
+
+319
+00:15:51,390 --> 00:15:53,910
+is where you completely remove
+the tree instead of just
+
+320
+00:15:53,910 --> 00:15:57,800
+cutting it, in Boston at least,
+is what makes the most sense.
+
+321
+00:15:57,800 --> 00:16:00,980
+And this is for both
+models-- actually,
+
+322
+00:16:00,980 --> 00:16:03,230
+for all the models-- although
+model one can't really
+
+323
+00:16:03,230 --> 00:16:06,690
+model a tree necessarily.
+
+324
+00:16:06,690 --> 00:16:10,390
+So that's why it basically
+doesn't apply for that.
+
+325
+00:16:10,390 --> 00:16:13,990
+In terms of comparing the
+results between the models,
+
+326
+00:16:13,990 --> 00:16:17,780
+model one actually does a
+pretty decent job in Boston
+
+327
+00:16:17,780 --> 00:16:22,040
+in getting close to model
+three, which is impressive,
+
+328
+00:16:22,040 --> 00:16:25,690
+because model one is
+significantly more crude, much
+
+329
+00:16:25,690 --> 00:16:29,790
+simpler than model three, which
+required many, many inputs.
+
+330
+00:16:29,790 --> 00:16:33,050
+And the reason we believe the
+discrepancy is between models
+
+331
+00:16:33,050 --> 00:16:36,230
+two and three is that
+model two-- the way
+
+332
+00:16:36,230 --> 00:16:39,710
+that we basically treated the
+solar insulation-- it doesn't
+
+333
+00:16:39,710 --> 00:16:42,360
+treat diffuse
+sunlight differently,
+
+334
+00:16:42,360 --> 00:16:48,060
+whereas basically the models
+PVWatts and EnergyPlus will
+
+335
+00:16:48,060 --> 00:16:50,210
+take all that into
+account, so we
+
+336
+00:16:50,210 --> 00:16:52,560
+think that's a larger
+reason for that.
+
+337
+00:16:52,560 --> 00:16:55,750
+And then similar
+thing in Phoenix.
+
+338
+00:16:55,750 --> 00:16:58,880
+And basically we see a
+slightly different case here.
+
+339
+00:16:58,880 --> 00:17:02,740
+Actually scenario E, where
+you just-- you install the PV,
+
+340
+00:17:02,740 --> 00:17:04,490
+but you cut the tree
+instead of completely
+
+341
+00:17:04,490 --> 00:17:07,880
+removing it-- gives you a
+slightly better increase
+
+342
+00:17:07,880 --> 00:17:11,440
+in net energy gain.
+
+343
+00:17:11,440 --> 00:17:13,490
+In terms of-- and
+this is, again,
+
+344
+00:17:13,490 --> 00:17:15,170
+just in terms of energies.
+
+345
+00:17:15,170 --> 00:17:16,619
+There could be rounding errors.
+
+346
+00:17:16,619 --> 00:17:19,569
+This is ignoring the fact
+that, if you cut a tree down,
+
+347
+00:17:19,569 --> 00:17:23,005
+the net greenhouse gas emissions
+would be changed and altered,
+
+348
+00:17:23,005 --> 00:17:24,880
+and this is ignoring
+all those other effects.
+
+349
+00:17:24,880 --> 00:17:29,400
+This is just in terms of net
+energy gain of the house.
+
+350
+00:17:29,400 --> 00:17:33,310
+And just to point out the
+discrepancy between model one
+
+351
+00:17:33,310 --> 00:17:38,760
+here, we think that model
+one is actually, again--
+
+352
+00:17:38,760 --> 00:17:41,970
+that's using PVWatts to
+get your energy output.
+
+353
+00:17:41,970 --> 00:17:45,920
+And that's basically assuming
+peak solar insulation,
+
+354
+00:17:45,920 --> 00:17:55,100
+whereas our models basically
+use more empirical formulas
+
+355
+00:17:55,100 --> 00:17:58,560
+to get the estimates
+for your PV output.
+
+356
+00:17:58,560 --> 00:18:00,810
+And then the last thing we
+did to do the sensitivity--
+
+357
+00:18:00,810 --> 00:18:05,750
+or to compare the models, was do
+a sort of sensitivity analysis.
+
+358
+00:18:05,750 --> 00:18:07,380
+So basically on
+your y-axis, what
+
+359
+00:18:07,380 --> 00:18:10,190
+you have is your percent change
+in your relative energy gain--
+
+360
+00:18:10,190 --> 00:18:12,640
+relative, again, to
+that scenario C--
+
+361
+00:18:12,640 --> 00:18:14,770
+divided by the percent
+change in your parameters.
+
+362
+00:18:14,770 --> 00:18:17,050
+So we just considered
+four parameters.
+
+363
+00:18:17,050 --> 00:18:20,110
+The x-axis is a rough
+estimate of how difficult
+
+364
+00:18:20,110 --> 00:18:22,900
+it would be to actually change
+that parameter in your house.
+
+365
+00:18:22,900 --> 00:18:26,140
+So the far left
+one is the PV size.
+
+366
+00:18:26,140 --> 00:18:29,210
+We just assumed if you went--
+instead of a five kilowatt
+
+367
+00:18:29,210 --> 00:18:32,890
+to a 5.5 kilowatt, so that's
+why the price is roughly $3,000.
+
+368
+00:18:32,890 --> 00:18:37,940
+We assumed about a $5 to $6
+per watt installation cost
+
+369
+00:18:37,940 --> 00:18:38,660
+for that.
+
+370
+00:18:38,660 --> 00:18:41,720
+So that's basically
+the easiest one to do,
+
+371
+00:18:41,720 --> 00:18:47,070
+and you get various significant
+change in your thermal energy
+
+372
+00:18:47,070 --> 00:18:49,096
+gains because of that.
+
+373
+00:18:49,096 --> 00:18:50,470
+And then just
+because of time I'm
+
+374
+00:18:50,470 --> 00:18:54,240
+going to rush through these, but
+basically a lot of the models
+
+375
+00:18:54,240 --> 00:18:56,760
+follow similar trends in
+terms of the sensitivities.
+
+376
+00:18:56,760 --> 00:18:58,052
+The last one is the roof pitch.
+
+377
+00:18:58,052 --> 00:19:00,135
+You obviously wouldn't
+really want to change that.
+
+378
+00:19:00,135 --> 00:19:01,389
+It's very expensive to do.
+
+379
+00:19:01,389 --> 00:19:02,930
+Luckily, for most
+of the models, it's
+
+380
+00:19:02,930 --> 00:19:04,346
+not actually that
+sensitive to it,
+
+381
+00:19:04,346 --> 00:19:09,910
+at least within a close amount
+to where you start with.
+
+382
+00:19:09,910 --> 00:19:11,940
+So in conclusion,
+in all three models,
+
+383
+00:19:11,940 --> 00:19:14,879
+it makes sense to
+install a PV system.
+
+384
+00:19:14,879 --> 00:19:16,920
+It's kind of what we
+expected from the beginning,
+
+385
+00:19:16,920 --> 00:19:20,950
+but it's nice to get
+that sort of conclusion.
+
+386
+00:19:20,950 --> 00:19:22,750
+For models one and
+two, we actually
+
+387
+00:19:22,750 --> 00:19:25,247
+were able to get pretty
+reasonable results,
+
+388
+00:19:25,247 --> 00:19:27,080
+but they're limited in
+terms of what you can
+
+389
+00:19:27,080 --> 00:19:28,990
+consider within those models.
+
+390
+00:19:28,990 --> 00:19:31,530
+The advantage of looking
+at this basically
+
+391
+00:19:31,530 --> 00:19:33,355
+is that, if you have
+a user that isn't
+
+392
+00:19:33,355 --> 00:19:37,340
+as familiar with EnergyPlus
+in model three, which
+
+393
+00:19:37,340 --> 00:19:40,170
+is very sophisticated-- it
+requires a lot of inputs--
+
+394
+00:19:40,170 --> 00:19:41,920
+they can still get a
+rough estimate, which
+
+395
+00:19:41,920 --> 00:19:46,850
+is relatively close, using
+these much simpler models.
+
+396
+00:19:46,850 --> 00:19:49,300
+And model three--
+again, we were taking
+
+397
+00:19:49,300 --> 00:19:51,830
+that to be the more
+realistic case,
+
+398
+00:19:51,830 --> 00:19:55,530
+but you'd have to compare
+it to real life data
+
+399
+00:19:55,530 --> 00:19:59,070
+and do an empirical analysis
+to see how close it actually
+
+400
+00:19:59,070 --> 00:20:00,800
+does correlate.
+
+401
+00:20:00,800 --> 00:20:02,380
+And then just,
+again, to summarize
+
+402
+00:20:02,380 --> 00:20:04,800
+the results we got from
+model three-- in Boston,
+
+403
+00:20:04,800 --> 00:20:06,650
+it makes sense to
+install the PV,
+
+404
+00:20:06,650 --> 00:20:08,960
+but completely remove the tree.
+
+405
+00:20:08,960 --> 00:20:11,800
+And your payback period
+is about 24 years.
+
+406
+00:20:11,800 --> 00:20:15,520
+In Phoenix, the best scenario
+is to install the PV,
+
+407
+00:20:15,520 --> 00:20:18,130
+cut the tree, and
+it's about 51 years.
+
+408
+00:20:18,130 --> 00:20:22,100
+And interestingly, the maximum
+of that relative energy gain
+
+409
+00:20:22,100 --> 00:20:24,400
+was essentially
+the same in both,
+
+410
+00:20:24,400 --> 00:20:26,850
+even though the
+scenarios were different.
+
+411
+00:20:26,850 --> 00:20:29,740
+So we'd just like to
+acknowledge Professor Buonassisi
+
+412
+00:20:29,740 --> 00:20:31,960
+for helping assist
+us and guiding
+
+413
+00:20:31,960 --> 00:20:35,020
+the direction of the project,
+and Bryan Urban at Fraunhofer
+
+414
+00:20:35,020 --> 00:20:38,420
+and other members at Fraunhofer
+for giving us guidance.
+
+415
+00:20:38,420 --> 00:20:41,151
+And with that, we would like
+to ask you for questions.
+
+416
+00:20:41,151 --> 00:20:44,097
+[APPLAUSE]
+
+417
+00:20:49,989 --> 00:20:52,444
+AUDIENCE: My
+question is I grew up
+
+418
+00:20:52,444 --> 00:20:54,408
+in a neighborhood that
+has a lot of trees,
+
+419
+00:20:54,408 --> 00:20:56,372
+and so cutting
+down all the trees
+
+420
+00:20:56,372 --> 00:21:00,791
+wouldn't be very practical,
+but do you at all consider
+
+421
+00:21:00,791 --> 00:21:04,596
+PV systems that
+could handle shading
+
+422
+00:21:04,596 --> 00:21:06,218
+at different times of the day?
+
+423
+00:21:06,218 --> 00:21:07,877
+So somehow decoupling
+different parts
+
+424
+00:21:07,877 --> 00:21:11,274
+of it knowing that some of them
+will be in sunlight for part
+
+425
+00:21:11,274 --> 00:21:14,990
+of the day, some of them will
+be shaded, and that will change?
+
+426
+00:21:14,990 --> 00:21:17,830
+STUDENT 3: So you could
+make the model-- especially
+
+427
+00:21:17,830 --> 00:21:21,570
+in EnergyPlus, you could make
+it as complex as you want.
+
+428
+00:21:21,570 --> 00:21:25,360
+We just did this for simplicity,
+just to put boundaries
+
+429
+00:21:25,360 --> 00:21:27,620
+around what are problem is
+that we were considering,
+
+430
+00:21:27,620 --> 00:21:30,460
+but you could definitely-- yeah,
+you could definitely add that
+
+431
+00:21:30,460 --> 00:21:32,072
+to the model if you wanted to.
+
+432
+00:21:32,072 --> 00:21:33,530
+STUDENT 1: Cutting
+the tree was not
+
+433
+00:21:33,530 --> 00:21:37,966
+worrying about the output of
+the actual cell in terms of
+
+434
+00:21:37,966 --> 00:21:40,964
+whether or not some shading
+was going to bring down
+
+435
+00:21:40,964 --> 00:21:41,880
+the rest of the cell.
+
+436
+00:21:41,880 --> 00:21:43,254
+The reason we
+would cut the trees
+
+437
+00:21:43,254 --> 00:21:44,632
+is to increase the maximum
+amount of sunlight per day
+
+438
+00:21:44,632 --> 00:21:45,570
+hitting the panel.
+
+439
+00:21:45,570 --> 00:21:49,007
+And it's because we were looking
+mostly at endpoints, trying
+
+440
+00:21:49,007 --> 00:21:50,971
+to get the spectrum ends.
+
+441
+00:21:50,971 --> 00:21:53,426
+That was why we went
+to such extremes.
+
+442
+00:21:53,426 --> 00:21:55,697
+Cutting down selective trees
+and just parts of trees
+
+443
+00:21:55,697 --> 00:21:56,863
+would be kind of in between.
+
+444
+00:21:56,863 --> 00:21:58,827
+It's a little bit more
+difficult to assess.
+
+445
+00:22:02,755 --> 00:22:05,210
+STUDENT 2: Cutting down trees
+is actually [INAUDIBLE].
+
+446
+00:22:05,210 --> 00:22:08,790
+It's not [INAUDIBLE] because
+we found that the shading
+
+447
+00:22:08,790 --> 00:22:12,140
+factor doesn't play a much
+bigger role if you look
+
+448
+00:22:12,140 --> 00:22:13,340
+at the relative [INAUDIBLE].
+
+449
+00:22:13,340 --> 00:22:15,400
+So you would as
+well have increased
+
+450
+00:22:15,400 --> 00:22:21,308
+the-- there will be objectively
+small loss in the energy gain,
+
+451
+00:22:21,308 --> 00:22:23,748
+but that shouldn't matter much.
+
+452
+00:22:27,164 --> 00:22:29,116
+AUDIENCE: Sort of a
+philosophical question.
+
+453
+00:22:29,116 --> 00:22:35,940
+If the payback period in Phoenix
+is 51 years, is it worth it?
+
+454
+00:22:35,940 --> 00:22:42,030
+That's a long time period
+for-- I guess economically
+
+455
+00:22:42,030 --> 00:22:44,767
+you could say that you could do
+other things with that capital
+
+456
+00:22:44,767 --> 00:22:47,202
+instead that would have
+a shorter payback period.
+
+457
+00:22:51,534 --> 00:22:53,200
+JORDAN: Well, 51
+years-- then the answer
+
+458
+00:22:53,200 --> 00:22:56,483
+is probably not if you're
+looking at the benefit of cost
+
+459
+00:22:56,483 --> 00:22:58,130
+money-wise.
+
+460
+00:22:58,130 --> 00:23:01,880
+We did analysis
+about the energy.
+
+461
+00:23:01,880 --> 00:23:08,270
+So we found an estimate for the
+embedded energy of the panel.
+
+462
+00:23:08,270 --> 00:23:12,370
+This is from-- I can't
+remember the source,
+
+463
+00:23:12,370 --> 00:23:14,120
+but they change quite a bit.
+
+464
+00:23:14,120 --> 00:23:17,880
+But this example says it's
+1,500 kilowatt hours per meter
+
+465
+00:23:17,880 --> 00:23:20,420
+squared, so that equivalents
+to nine years payback.
+
+466
+00:23:20,420 --> 00:23:22,570
+Pretty much nine
+years in Boston.
+
+467
+00:23:22,570 --> 00:23:25,990
+I think it turned out to
+be eight years in Phoenix.
+
+468
+00:23:25,990 --> 00:23:28,510
+So there is a
+benefit energy-wise,
+
+469
+00:23:28,510 --> 00:23:31,160
+but in this example,
+perhaps not cost-wise--
+
+470
+00:23:31,160 --> 00:23:36,009
+perhaps not the most
+advantageous to do per dollar.
+
+471
+00:23:36,009 --> 00:23:37,800
+MARK WINKLER: A related
+question, actually.
+
+472
+00:23:37,800 --> 00:23:39,909
+Can you back to your
+two slides back maybe?
+
+473
+00:23:39,909 --> 00:23:40,450
+JORDAN: Yeah.
+
+474
+00:23:40,450 --> 00:23:42,060
+MARK WINKLER: Your look
+at the net energy gain
+
+475
+00:23:42,060 --> 00:23:43,010
+was quite similar.
+
+476
+00:23:43,010 --> 00:23:46,950
+So why the large difference
+in yearly savings
+
+477
+00:23:46,950 --> 00:23:47,816
+and payback period.
+
+478
+00:23:47,816 --> 00:23:50,840
+STUDENT 3: Just the cost of
+electricity in each location.
+
+479
+00:23:50,840 --> 00:23:55,640
+We estimated it as about $0.07
+per kilowatt hour in Phoenix
+
+480
+00:23:55,640 --> 00:24:01,350
+and $0.17 in Boston
+for residential.
+
+481
+00:24:01,350 --> 00:24:04,970
+STUDENT 1: Which is why you
+would get a shorter payback
+
+482
+00:24:04,970 --> 00:24:07,660
+period for Boston-- is because
+the cost of the electricity
+
+483
+00:24:07,660 --> 00:24:09,730
+that you're [INAUDIBLE].
+
+484
+00:24:09,730 --> 00:24:13,430
+MARK WINKLER: So I would have
+assumed that the generation
+
+485
+00:24:13,430 --> 00:24:14,910
+mix is sort of similar.
+
+486
+00:24:14,910 --> 00:24:17,090
+Is that regulatory,
+or-- I would assume
+
+487
+00:24:17,090 --> 00:24:20,854
+they're coal/gas centric
+generation mixes.
+
+488
+00:24:20,854 --> 00:24:21,520
+STUDENT 3: Yeah.
+
+489
+00:24:26,760 --> 00:24:28,810
+You mean in terms of
+how the houses are--
+
+490
+00:24:28,810 --> 00:24:29,765
+MARK WINKLER: This is a
+little outside the scope
+
+491
+00:24:29,765 --> 00:24:30,350
+of what you guys did.
+
+492
+00:24:30,350 --> 00:24:31,370
+I was just curious
+if you guys had
+
+493
+00:24:31,370 --> 00:24:33,125
+any sense of why
+the big difference
+
+494
+00:24:33,125 --> 00:24:36,380
+in wholesale electricity
+price is between Boston--
+
+495
+00:24:36,380 --> 00:24:40,890
+STUDENT 3: I think part of it
+is just how plentiful energy is.
+
+496
+00:24:40,890 --> 00:24:43,380
+I guess Boston is at the very
+end in the corner of the US.
+
+497
+00:24:43,380 --> 00:24:49,170
+It's more difficult to get fuel,
+oil, gas shipped over here.
+
+498
+00:24:49,170 --> 00:24:50,960
+I think Arizona--
+I think they're
+
+499
+00:24:50,960 --> 00:24:53,610
+relatively close to a nuclear
+power plant over there.
+
+500
+00:24:53,610 --> 00:24:57,290
+Oil-- I think it's
+just location--wise.
+
+501
+00:24:57,290 --> 00:24:59,040
+JOE SULLIVAN: There's
+a lot of coal there.
+
+502
+00:24:59,040 --> 00:25:01,210
+They actually ship a
+lot of the electricity
+
+503
+00:25:01,210 --> 00:25:04,045
+to California because they
+can't [INAUDIBLE] in California.
+
+504
+00:25:04,045 --> 00:25:05,170
+One quick question, though.
+
+505
+00:25:05,170 --> 00:25:07,010
+The relative energy gains
+are the same for both.
+
+506
+00:25:07,010 --> 00:25:08,468
+Do you have different
+sized panels,
+
+507
+00:25:08,468 --> 00:25:10,600
+or is heating that much?
+
+508
+00:25:10,600 --> 00:25:11,390
+That's a big deal.
+
+509
+00:25:11,390 --> 00:25:12,530
+STUDENT 3: Heating, yeah.
+
+510
+00:25:12,530 --> 00:25:12,731
+JOE SULLIVAN: OK.
+
+511
+00:25:12,731 --> 00:25:13,294
+So if you--
+
+512
+00:25:17,234 --> 00:25:18,234
+HEIDI: Also for Phoenix.
+
+513
+00:25:20,820 --> 00:25:23,750
+For Phoenix, you can see
+this is the cooling over here
+
+514
+00:25:23,750 --> 00:25:27,000
+and heating on the
+right over there,
+
+515
+00:25:27,000 --> 00:25:29,160
+and for Phoenix, you can
+just look at the values
+
+516
+00:25:29,160 --> 00:25:32,410
+and see that there's a lot more
+cooling than heating compared
+
+517
+00:25:32,410 --> 00:25:35,700
+to the Boston case, where
+there's a lot more heating
+
+518
+00:25:35,700 --> 00:25:37,890
+by many orders of
+magnitude more.
+
+519
+00:25:37,890 --> 00:25:39,790
+And so that kind
+of balances it out.
+
+520
+00:25:39,790 --> 00:25:41,873
+JOE SULLIVAN: And so that's
+only in a cutting down
+
+521
+00:25:41,873 --> 00:25:44,590
+a tree case if you were already
+well shaded or not shaded
+
+522
+00:25:44,590 --> 00:25:46,080
+at all?
+
+523
+00:25:46,080 --> 00:25:47,890
+HEIDI: These are
+actually all the curves
+
+524
+00:25:47,890 --> 00:25:49,077
+for all the scenarios, and--
+
+525
+00:25:49,077 --> 00:25:49,910
+JOE SULLIVAN: I see.
+
+526
+00:25:49,910 --> 00:25:51,420
+OK.
+
+527
+00:25:51,420 --> 00:25:54,140
+HEIDI: So it does matter
+just because of location.
+
+528
+00:25:58,140 --> 00:26:01,140
+So if you're not
+cutting down a tree,
+
+529
+00:26:01,140 --> 00:26:07,671
+then there's no
+decrease in shading.
+
+530
+00:26:07,671 --> 00:26:09,920
+Or is it just the panel
+itself that's heating up more?
+
+531
+00:26:09,920 --> 00:26:12,440
+STUDENT 3: Well, actually
+if you go back to--
+
+532
+00:26:12,440 --> 00:26:14,610
+JOE SULLIVAN: Sorry, I
+think I missed something.
+
+533
+00:26:14,610 --> 00:26:17,210
+STUDENT 3: Actually,
+in Boston it actually
+
+534
+00:26:17,210 --> 00:26:20,600
+makes more sense to have a
+black roof than a white roof.
+
+535
+00:26:20,600 --> 00:26:24,140
+So you actually want--
+shading isn't necessarily
+
+536
+00:26:24,140 --> 00:26:28,176
+good in Boston, just because
+there's so much heating
+
+537
+00:26:28,176 --> 00:26:30,980
+that you need in the winter.
+
+538
+00:26:30,980 --> 00:26:33,050
+It seems to be the
+dominant effect in Boston,
+
+539
+00:26:33,050 --> 00:26:34,730
+and in Phoenix,
+it's the opposite.
+
+540
+00:26:34,730 --> 00:26:37,709
+The cooling is the
+dominant effect.
+
+541
+00:26:37,709 --> 00:26:39,500
+PROFESSOR: Did you
+consider the possibility
+
+542
+00:26:39,500 --> 00:26:41,515
+that snow also
+insulates the house
+
+543
+00:26:41,515 --> 00:26:42,792
+once it falls on the roof?
+
+544
+00:26:42,792 --> 00:26:43,375
+STUDENT 3: No.
+
+545
+00:26:46,165 --> 00:26:47,570
+We did not.
+
+546
+00:26:47,570 --> 00:26:51,020
+I don't know if-- is
+that built into-- I
+
+547
+00:26:51,020 --> 00:26:52,590
+don't know what would happen.
+
+548
+00:26:52,590 --> 00:26:57,718
+No, I don't think we did,
+but that's a good point.
+
+549
+00:26:57,718 --> 00:26:59,429
+AUDIENCE: Along
+those lines, do you
+
+550
+00:26:59,429 --> 00:27:01,141
+have any intuition
+as to why in one case
+
+551
+00:27:01,141 --> 00:27:03,611
+it's better to cut down a
+tree other than remove it,
+
+552
+00:27:03,611 --> 00:27:06,194
+and then the other is better to
+remove it rather than just cut
+
+553
+00:27:06,194 --> 00:27:06,694
+it down?
+
+554
+00:27:06,694 --> 00:27:08,720
+Are you expecting it
+to grow back and then
+
+555
+00:27:08,720 --> 00:27:10,921
+have to incur more
+costs because you're
+
+556
+00:27:10,921 --> 00:27:13,860
+going to have to cut it down
+again, or-- what's going on?
+
+557
+00:27:13,860 --> 00:27:17,260
+STUDENT 3: Well, just
+in terms of pure energy,
+
+558
+00:27:17,260 --> 00:27:20,530
+it was very, very
+slightly better
+
+559
+00:27:20,530 --> 00:27:26,480
+in this case to have
+the tree just cut
+
+560
+00:27:26,480 --> 00:27:31,131
+just in terms of the balance
+between heating and cooling
+
+561
+00:27:31,131 --> 00:27:31,630
+[INAUDIBLE].
+
+562
+00:27:34,440 --> 00:27:36,580
+STUDENT 1: I may be able
+to help clarify that.
+
+563
+00:27:36,580 --> 00:27:39,530
+The idea is in Boston
+we're relatively cold most
+
+564
+00:27:39,530 --> 00:27:42,190
+of the year, so the more
+sunlight that hits your house
+
+565
+00:27:42,190 --> 00:27:44,390
+is going to add more
+heat to your house,
+
+566
+00:27:44,390 --> 00:27:47,760
+and that's less energy
+that you have to pay for.
+
+567
+00:27:47,760 --> 00:27:49,894
+So the reason that it's
+beneficial to cut down
+
+568
+00:27:49,894 --> 00:27:52,560
+the tree completely in Boston is
+because it allows more sunlight
+
+569
+00:27:52,560 --> 00:27:54,690
+to hit your house, whereas
+in Phoenix, you don't want
+
+570
+00:27:54,690 --> 00:27:55,720
+the sunlight to hit your house.
+
+571
+00:27:55,720 --> 00:27:57,280
+If you cut down the
+tree completely,
+
+572
+00:27:57,280 --> 00:28:00,700
+that's more you have to
+pay for AC in the summer.
+
+573
+00:28:00,700 --> 00:28:01,253
+So the--
+
+574
+00:28:01,253 --> 00:28:03,627
+AUDIENCE: [INAUDIBLE] the
+difference between cutting down
+
+575
+00:28:03,627 --> 00:28:06,080
+the tree and removing it?
+
+576
+00:28:06,080 --> 00:28:07,280
+STUDENT 1: So--
+
+577
+00:28:07,280 --> 00:28:08,470
+STUDENT 3: So-- go ahead.
+
+578
+00:28:08,470 --> 00:28:09,610
+STUDENT 1: Cutting
+the tree is assuming
+
+579
+00:28:09,610 --> 00:28:11,901
+that you're going to maintain
+it at that certain level.
+
+580
+00:28:11,901 --> 00:28:14,349
+So by cutting the tree,
+you keep a certain amount
+
+581
+00:28:14,349 --> 00:28:16,140
+of shading on the lower
+part of your house,
+
+582
+00:28:16,140 --> 00:28:19,670
+but you still allow sunlight
+to hit your solar panel.
+
+583
+00:28:19,670 --> 00:28:21,520
+Cutting down the
+tree completely means
+
+584
+00:28:21,520 --> 00:28:23,220
+there's no shading
+on your house at all.
+
+585
+00:28:25,957 --> 00:28:28,040
+AUDIENCE: I guess I have
+a philosophical question.
+
+586
+00:28:28,040 --> 00:28:29,968
+So I think there are
+a lot of people--
+
+587
+00:28:29,968 --> 00:28:33,342
+motivation for the solar panels
+is not just the [INAUDIBLE],
+
+588
+00:28:33,342 --> 00:28:35,081
+but rather the desire
+to do something
+
+589
+00:28:35,081 --> 00:28:36,664
+good for the
+environment, and to lower
+
+590
+00:28:36,664 --> 00:28:38,098
+carbon emissions, et cetera.
+
+591
+00:28:38,098 --> 00:28:42,995
+But when you cut down trees,
+that increases your carbon
+
+592
+00:28:42,995 --> 00:28:45,320
+emission because you're
+reducing the plant,
+
+593
+00:28:45,320 --> 00:28:47,190
+that reduces your carbon output.
+
+594
+00:28:47,190 --> 00:28:52,610
+So given that you won't have a
+tree there for like 50 years,
+
+595
+00:28:52,610 --> 00:28:56,840
+does that offset the
+carbon emission gains
+
+596
+00:28:56,840 --> 00:29:00,070
+that you get by--
+
+597
+00:29:00,070 --> 00:29:01,620
+STUDENT 1: Just my two cents.
+
+598
+00:29:01,620 --> 00:29:04,250
+If you really want
+to go in depth,
+
+599
+00:29:04,250 --> 00:29:05,877
+you can look at
+how much carbon is
+
+600
+00:29:05,877 --> 00:29:07,710
+going to be produced
+by the coal power plant
+
+601
+00:29:07,710 --> 00:29:10,180
+to give you the energy that
+you're going to be using for 50
+
+602
+00:29:10,180 --> 00:29:12,096
+years and compare that
+to the amount of carbon
+
+603
+00:29:12,096 --> 00:29:15,010
+that one tree was going to save
+you, or you could ask yourself,
+
+604
+00:29:15,010 --> 00:29:18,070
+am I planning to have a child
+during those 50 years, which
+
+605
+00:29:18,070 --> 00:29:22,060
+will produce so much more CO2
+than that tree will take out?
+
+606
+00:29:22,060 --> 00:29:27,860
+Either way, it's
+relatively a small value.
+
+607
+00:29:27,860 --> 00:29:30,490
+However, we do
+acknowledge that there
+
+608
+00:29:30,490 --> 00:29:32,580
+was a lot of
+philosophical questions
+
+609
+00:29:32,580 --> 00:29:34,300
+that we argued
+amongst ourselves,
+
+610
+00:29:34,300 --> 00:29:37,182
+but we realized we didn't have
+the time to try to evaluate,
+
+611
+00:29:37,182 --> 00:29:39,595
+or the materials, and scope.
+
+612
+00:29:39,595 --> 00:29:41,428
+PROFESSOR: One more
+question, and then we're
+
+613
+00:29:41,428 --> 00:29:42,719
+going to have to switch groups.
+
+614
+00:29:42,719 --> 00:29:44,669
+Jasmin?
+
+615
+00:29:44,669 --> 00:29:46,641
+JASMIN HOFSTETTER: Do
+you have any real data
+
+616
+00:29:46,641 --> 00:29:49,920
+to compare your
+model results to.
+
+617
+00:29:49,920 --> 00:29:52,250
+From your results,
+it seems that it
+
+618
+00:29:52,250 --> 00:29:54,410
+doesn't make any
+sense to install
+
+619
+00:29:54,410 --> 00:29:56,120
+solar panels ins Phoenix.
+
+620
+00:29:56,120 --> 00:29:57,694
+Is that right?
+
+621
+00:29:57,694 --> 00:29:59,610
+That's the impression?
+
+622
+00:29:59,610 --> 00:30:01,100
+STUDENT 3: Financially.
+
+623
+00:30:01,100 --> 00:30:02,970
+Just purely financially, yeah.
+
+624
+00:30:07,490 --> 00:30:09,890
+In terms of the PV
+output, it seemed
+
+625
+00:30:09,890 --> 00:30:12,340
+to be pretty close
+in comparison to what
+
+626
+00:30:12,340 --> 00:30:14,610
+we got from other sources.
+
+627
+00:30:14,610 --> 00:30:19,770
+So it seems like the net gain
+in energy is roughly right,
+
+628
+00:30:19,770 --> 00:30:22,490
+but obviously people still
+install panels there.
+
+629
+00:30:22,490 --> 00:30:24,860
+So either, I'm guessing,
+subsidies, or larger
+
+630
+00:30:24,860 --> 00:30:28,970
+installations, or
+something else, or just the
+
+631
+00:30:28,970 --> 00:30:31,290
+desire to install it
+just for installing it--
+
+632
+00:30:31,290 --> 00:30:34,393
+not necessarily for financial
+reason-- in Phoenix.
+
+633
+00:30:34,393 --> 00:30:37,665
+JASMIN HOFSTETTER: What was the
+temperature that you assumed?
+
+634
+00:30:37,665 --> 00:30:41,350
+I suppose you assumed a constant
+temperature in the house that
+
+635
+00:30:41,350 --> 00:30:42,220
+was like the--
+
+636
+00:30:42,220 --> 00:30:44,290
+STUDENT 3: Yes, that
+would also change it.
+
+637
+00:30:44,290 --> 00:30:44,630
+JASMIN HOFSTETTER: What
+was this temperature?
+
+638
+00:30:44,630 --> 00:30:46,255
+STUDENT 3: The set
+points for our model
+
+639
+00:30:46,255 --> 00:30:47,805
+was-- the cooling
+set point was 71.
+
+640
+00:30:47,805 --> 00:30:49,052
+HEIDI: 76.
+
+641
+00:30:49,052 --> 00:30:50,460
+Yeah, 76.
+
+642
+00:30:50,460 --> 00:30:53,450
+And then the heating
+set point was 71.
+
+643
+00:30:53,450 --> 00:30:54,527
+STUDENT 3: Yes.
+
+644
+00:30:54,527 --> 00:30:56,610
+JASMIN HOFSTETTER: Can you
+say that again, please?
+
+645
+00:30:56,610 --> 00:30:59,990
+HEIDI: The cooling set point
+was 76 degrees Fahrenheit,
+
+646
+00:30:59,990 --> 00:31:03,600
+and the heating was 71.
+
+647
+00:31:03,600 --> 00:31:04,850
+STUDENT 3: For both locations.
+
+648
+00:31:04,850 --> 00:31:06,022
+HEIDI: For both locations.
+
+649
+00:31:06,022 --> 00:31:07,230
+JASMIN HOFSTETTER: Thank you.
+
+650
+00:31:10,562 --> 00:31:11,990
+AUDIENCE: [INAUDIBLE].
+
+651
+00:31:11,990 --> 00:31:13,300
+JOE SULLIVAN: Are we out of--
+
+652
+00:31:13,300 --> 00:31:14,393
+PROFESSOR: No, that's it.
+
+653
+00:31:14,393 --> 00:31:15,240
+You guys are done.
+
+654
+00:31:15,240 --> 00:31:15,950
+Congratulations.
+
+655
+00:31:15,950 --> 00:31:17,360
+[APPLAUSE]
+
+656
+00:31:17,360 --> 00:31:19,991
+[INAUDIBLE] coming up, PV grid.
+
+657
+00:31:19,991 --> 00:31:22,491
+What happens when you install
+loads, and oodles, and oodles,
+
+658
+00:31:22,491 --> 00:31:24,190
+and oodles of solar
+onto the grid?
+
+659
+00:31:24,190 --> 00:31:25,440
+We're going to hear all about.
+
+660
+00:31:25,440 --> 00:31:27,431
+And take it away.
+
+661
+00:31:27,431 --> 00:31:28,555
+Knock it out of park, guys.
+
+662
+00:31:28,555 --> 00:31:30,055
+IBRAHIM: So as
+[? Tony ?] mentioned,
+
+663
+00:31:30,055 --> 00:31:31,600
+we're the PV grid project.
+
+664
+00:31:31,600 --> 00:31:32,935
+I'm Ibrahim.
+
+665
+00:31:32,935 --> 00:31:33,560
+MARY: I'm Mary.
+
+666
+00:31:33,560 --> 00:31:34,462
+RITA: I'm Rita.
+
+667
+00:31:34,462 --> 00:31:35,364
+ASHLEY: I'm Ashley.
+
+668
+00:31:35,364 --> 00:31:36,139
+JARED: I'm Jared.
+
+669
+00:31:36,139 --> 00:31:37,680
+IBRAHIM: All right,
+so I'm just going
+
+670
+00:31:37,680 --> 00:31:42,480
+to start with the motivation
+behind our project.
+
+671
+00:31:42,480 --> 00:31:46,830
+So as we discussed in
+class, PV installations
+
+672
+00:31:46,830 --> 00:31:49,330
+have witnessed very
+significant growth rates
+
+673
+00:31:49,330 --> 00:31:50,890
+over the last few years.
+
+674
+00:31:50,890 --> 00:31:55,440
+Last year alone PV installation
+growth rates were around 17%.
+
+675
+00:31:55,440 --> 00:32:00,150
+Around 18 gigawatts
+globally were installed.
+
+676
+00:32:00,150 --> 00:32:04,240
+As the cost of PV
+approaches grid parity,
+
+677
+00:32:04,240 --> 00:32:06,870
+more investors and
+consumers are going
+
+678
+00:32:06,870 --> 00:32:11,070
+to want to adopt PV systems.
+
+679
+00:32:11,070 --> 00:32:15,830
+However, one lingering
+or major obstacle
+
+680
+00:32:15,830 --> 00:32:20,620
+preventing the further or
+high penetration levels
+
+681
+00:32:20,620 --> 00:32:25,410
+of PV systems is intermittency.
+
+682
+00:32:25,410 --> 00:32:27,530
+So as we discussed
+in class, there's
+
+683
+00:32:27,530 --> 00:32:30,700
+variability in terms
+of the solar resource,
+
+684
+00:32:30,700 --> 00:32:35,160
+both on a long-term scale and
+a short-term scale seconds
+
+685
+00:32:35,160 --> 00:32:37,060
+to minutes.
+
+686
+00:32:37,060 --> 00:32:39,270
+So on a long-term
+scale, we're talking
+
+687
+00:32:39,270 --> 00:32:42,350
+about the position of the
+sun relative to the Earth
+
+688
+00:32:42,350 --> 00:32:43,480
+and so on.
+
+689
+00:32:43,480 --> 00:32:47,420
+So in that respect,
+that's predictable
+
+690
+00:32:47,420 --> 00:32:49,010
+and can be planned for.
+
+691
+00:32:49,010 --> 00:32:52,125
+When we define or talk
+about intermittency,
+
+692
+00:32:52,125 --> 00:32:55,980
+it's the short-term
+unpredictable effects
+
+693
+00:32:55,980 --> 00:33:03,060
+that change the power
+output significantly.
+
+694
+00:33:03,060 --> 00:33:08,060
+So what we have here is
+the fractional change
+
+695
+00:33:08,060 --> 00:33:11,970
+in power output over
+the course of one day.
+
+696
+00:33:11,970 --> 00:33:15,520
+So as you can see, between
+the two consecutive seconds,
+
+697
+00:33:15,520 --> 00:33:18,000
+the power output
+can almost double,
+
+698
+00:33:18,000 --> 00:33:21,870
+and it can at other
+times drop by half.
+
+699
+00:33:21,870 --> 00:33:24,730
+So from a system
+operator perspective,
+
+700
+00:33:24,730 --> 00:33:26,880
+that's obviously
+a major challenge
+
+701
+00:33:26,880 --> 00:33:31,940
+because demand should
+match supply at all times.
+
+702
+00:33:31,940 --> 00:33:36,110
+So again, these effects, or
+these intermittency issues,
+
+703
+00:33:36,110 --> 00:33:40,330
+arise due to regional weather
+patterns that can be predicted
+
+704
+00:33:40,330 --> 00:33:44,290
+and also due to local
+weather patterns that
+
+705
+00:33:44,290 --> 00:33:46,420
+are less predictable.
+
+706
+00:33:46,420 --> 00:33:50,190
+So in our project, what
+we tried to address is,
+
+707
+00:33:50,190 --> 00:33:53,460
+can the weather report be
+used to predict the power
+
+708
+00:33:53,460 --> 00:33:57,920
+output from an ensemble
+of smaller distributive PV
+
+709
+00:33:57,920 --> 00:33:58,420
+systems?
+
+710
+00:33:58,420 --> 00:34:04,240
+That is, can we average out
+these local less predictable
+
+711
+00:34:04,240 --> 00:34:07,680
+intermittency effects?
+
+712
+00:34:07,680 --> 00:34:11,040
+I'll give it to Mary to
+discuss our approach.
+
+713
+00:34:24,810 --> 00:34:27,210
+MARY: So our goal
+of this project
+
+714
+00:34:27,210 --> 00:34:30,080
+was to design a model
+that could quantitatively
+
+715
+00:34:30,080 --> 00:34:34,620
+analyze a PV grid and determine
+its robustness in terms
+
+716
+00:34:34,620 --> 00:34:36,080
+of variability.
+
+717
+00:34:36,080 --> 00:34:39,370
+And our main components were
+meantime between failure--
+
+718
+00:34:39,370 --> 00:34:43,540
+which is the average
+time between two system
+
+719
+00:34:43,540 --> 00:34:46,820
+failures, which Rita
+will define and discuss
+
+720
+00:34:46,820 --> 00:34:49,300
+later-- number of
+systems in the grid,
+
+721
+00:34:49,300 --> 00:34:51,530
+and geographic
+dispersion, which we
+
+722
+00:34:51,530 --> 00:34:53,670
+measured through
+geometric mean distance.
+
+723
+00:34:56,199 --> 00:35:00,420
+Our data set was from
+the Oahu airport,
+
+724
+00:35:00,420 --> 00:35:04,070
+which is part of the National
+Renewable Energy Laboratory.
+
+725
+00:35:04,070 --> 00:35:08,220
+There are 17 systems all
+within about a kilometer
+
+726
+00:35:08,220 --> 00:35:11,160
+of each other, so it's a very
+small, very dense system,
+
+727
+00:35:11,160 --> 00:35:17,200
+but there was second interval
+data for a year, which we used.
+
+728
+00:35:17,200 --> 00:35:19,370
+So there's a fair amount
+of data to give us
+
+729
+00:35:19,370 --> 00:35:21,600
+an estimate of how
+intermittency varies
+
+730
+00:35:21,600 --> 00:35:25,200
+over the course of a system
+and the number of systems
+
+731
+00:35:25,200 --> 00:35:25,800
+and density.
+
+732
+00:35:37,590 --> 00:35:39,360
+RITA: So our first
+step was to define
+
+733
+00:35:39,360 --> 00:35:41,530
+what was a PV system failure.
+
+734
+00:35:41,530 --> 00:35:44,150
+In order to do so, we
+accessed the CAISO website--
+
+735
+00:35:44,150 --> 00:35:46,950
+that is, the California
+Independent System Operator--
+
+736
+00:35:46,950 --> 00:35:52,080
+and we took that data from
+one week of the actual demand
+
+737
+00:35:52,080 --> 00:35:54,580
+and hour hand demand forecast.
+
+738
+00:35:54,580 --> 00:35:56,750
+They give this value
+for every hour,
+
+739
+00:35:56,750 --> 00:35:59,050
+so we took the value for
+every hour of the week,
+
+740
+00:35:59,050 --> 00:36:01,460
+and then we plotted
+in this graph
+
+741
+00:36:01,460 --> 00:36:03,825
+that we have a line for
+each day of the week,
+
+742
+00:36:03,825 --> 00:36:07,650
+and can see that both the
+magnitudes and the shapes
+
+743
+00:36:07,650 --> 00:36:10,470
+throughout the week
+are almost the same.
+
+744
+00:36:10,470 --> 00:36:13,650
+We can also see that the
+values are almost all positive.
+
+745
+00:36:13,650 --> 00:36:16,720
+This means that they
+usually underestimate.
+
+746
+00:36:16,720 --> 00:36:18,250
+They usually think
+that the demand
+
+747
+00:36:18,250 --> 00:36:22,910
+is going to be under
+what it really happens.
+
+748
+00:36:22,910 --> 00:36:28,500
+And so what we defined was
+that, if this estimation is
+
+749
+00:36:28,500 --> 00:36:31,200
+OK for CAISO, if
+they can manage that
+
+750
+00:36:31,200 --> 00:36:34,040
+the grid with this
+variation, then they
+
+751
+00:36:34,040 --> 00:36:38,680
+could also manage the grid with
+this variation in a PV output.
+
+752
+00:36:38,680 --> 00:36:40,760
+And so we looked at 5:00 PM.
+
+753
+00:36:40,760 --> 00:36:44,320
+That is the hour that
+we have the biggest
+
+754
+00:36:44,320 --> 00:36:47,800
+variation between the two,
+and we averaged the value,
+
+755
+00:36:47,800 --> 00:36:50,200
+and we got to 6%.
+
+756
+00:36:50,200 --> 00:36:54,340
+So this means that, if our
+intermittency is above 6%,
+
+757
+00:36:54,340 --> 00:36:56,900
+we are going to have
+a PV system failure.
+
+758
+00:36:56,900 --> 00:37:01,720
+If the variation is below
+6%, then the intermittency
+
+759
+00:37:01,720 --> 00:37:04,072
+is not going to be a failure.
+
+760
+00:37:04,072 --> 00:37:06,280
+Then we could define the
+mean time between failures--
+
+761
+00:37:06,280 --> 00:37:09,450
+that is, the mean time between
+two intermittencies higher
+
+762
+00:37:09,450 --> 00:37:09,950
+than 6%.
+
+763
+00:37:21,880 --> 00:37:24,300
+JARED: OK, now that we
+have some context of what
+
+764
+00:37:24,300 --> 00:37:27,950
+the problem is, and we have an
+idea of what variability is,
+
+765
+00:37:27,950 --> 00:37:30,700
+and we have a data
+set to work with,
+
+766
+00:37:30,700 --> 00:37:33,690
+I'm going to talk about how
+we actually solve the problem.
+
+767
+00:37:33,690 --> 00:37:38,930
+We use coding in MATLAB to
+handle this huge data set.
+
+768
+00:37:38,930 --> 00:37:43,190
+NREL had 17 systems out
+there for every second
+
+769
+00:37:43,190 --> 00:37:44,880
+of an entire year.
+
+770
+00:37:44,880 --> 00:37:48,930
+And so we took all
+the files from NREL
+
+771
+00:37:48,930 --> 00:37:51,240
+and put them all
+into one huge matrix.
+
+772
+00:37:51,240 --> 00:37:52,740
+You can imagine it
+was-- it ended up
+
+773
+00:37:52,740 --> 00:37:56,130
+being about 23 fields
+by several million,
+
+774
+00:37:56,130 --> 00:37:58,400
+and it's about 677 megabytes.
+
+775
+00:37:58,400 --> 00:38:02,050
+So actually handling the
+data was an issue in itself.
+
+776
+00:38:02,050 --> 00:38:05,490
+I don't recommend it
+with an old computer.
+
+777
+00:38:05,490 --> 00:38:07,400
+And we also the GPS
+coordinates for each
+
+778
+00:38:07,400 --> 00:38:10,110
+of those locations
+and the variability
+
+779
+00:38:10,110 --> 00:38:12,530
+from the California
+ISO, so with that data
+
+780
+00:38:12,530 --> 00:38:16,740
+we could begin to build
+our code to figure out
+
+781
+00:38:16,740 --> 00:38:20,750
+a quantitative description
+of mean time between failure
+
+782
+00:38:20,750 --> 00:38:25,520
+and our idea of density.
+
+783
+00:38:25,520 --> 00:38:28,060
+So once everything was
+loaded into one big matrix
+
+784
+00:38:28,060 --> 00:38:29,660
+that we could work
+with, we moved on
+
+785
+00:38:29,660 --> 00:38:31,570
+to use the GPS coordinates.
+
+786
+00:38:31,570 --> 00:38:34,760
+And of those 17
+systems, we found
+
+787
+00:38:34,760 --> 00:38:38,260
+every single combination
+of 17 choose 2,
+
+788
+00:38:38,260 --> 00:38:41,780
+17 choose 3-- every possible
+way that you could connect
+
+789
+00:38:41,780 --> 00:38:44,070
+these systems-- and
+came up with something
+
+790
+00:38:44,070 --> 00:38:47,300
+like 60,000 different
+ways of connecting these,
+
+791
+00:38:47,300 --> 00:38:49,610
+and then for each
+possible connection,
+
+792
+00:38:49,610 --> 00:38:51,820
+we had a function
+that would calculate
+
+793
+00:38:51,820 --> 00:38:54,530
+this geometric
+mean distance that
+
+794
+00:38:54,530 --> 00:38:57,600
+would give you an
+idea of the density
+
+795
+00:38:57,600 --> 00:39:00,050
+of that particular connection.
+
+796
+00:39:00,050 --> 00:39:03,710
+And so to compare our
+mean time between failure
+
+797
+00:39:03,710 --> 00:39:06,950
+for these systems while
+holding the density constant,
+
+798
+00:39:06,950 --> 00:39:10,440
+we then searched through
+those possible combinations
+
+799
+00:39:10,440 --> 00:39:13,350
+and found this magic
+number that kind of
+
+800
+00:39:13,350 --> 00:39:16,090
+existed for each of those
+possible combinations of two,
+
+801
+00:39:16,090 --> 00:39:18,030
+of three, or four,
+all the way through.
+
+802
+00:39:18,030 --> 00:39:20,710
+And it kind of lined up
+for geometric mean distance
+
+803
+00:39:20,710 --> 00:39:22,100
+of 400 meters.
+
+804
+00:39:22,100 --> 00:39:25,660
+So using that set,
+we could then go on
+
+805
+00:39:25,660 --> 00:39:28,340
+and see how increasing
+the number of systems
+
+806
+00:39:28,340 --> 00:39:30,460
+helped the mean time
+between failure.
+
+807
+00:39:30,460 --> 00:39:34,421
+And then for a given set,
+we ended up using eight.
+
+808
+00:39:34,421 --> 00:39:39,160
+17 choose 8 gave us like 24,000
+possible ways to connect them.
+
+809
+00:39:39,160 --> 00:39:44,770
+We searched through and
+found varying densities
+
+810
+00:39:44,770 --> 00:39:46,980
+for one set number.
+
+811
+00:39:46,980 --> 00:39:50,020
+Then finally we
+wrote a function that
+
+812
+00:39:50,020 --> 00:39:52,040
+calculated the mean time
+between failure that
+
+813
+00:39:52,040 --> 00:39:55,815
+went through our data
+from NREL and said--
+
+814
+00:39:55,815 --> 00:39:57,690
+looked at the fractional
+difference and said,
+
+815
+00:39:57,690 --> 00:40:00,820
+OK, each time it's about
+6%, that's a failure,
+
+816
+00:40:00,820 --> 00:40:03,270
+and then measured that distance,
+took the average of that,
+
+817
+00:40:03,270 --> 00:40:05,135
+and that was our mean
+time between failure.
+
+818
+00:40:05,135 --> 00:40:06,510
+And then finally,
+once we had all
+
+819
+00:40:06,510 --> 00:40:09,190
+that together, we
+crunched all the numbers,
+
+820
+00:40:09,190 --> 00:40:12,830
+took a long time on my computer.
+
+821
+00:40:12,830 --> 00:40:15,990
+We were able to plot it together
+and get some very nice trends.
+
+822
+00:40:15,990 --> 00:40:18,410
+One of the great things,
+I think, about our code
+
+823
+00:40:18,410 --> 00:40:22,840
+is that it was only 525
+lines, and if you've ever
+
+824
+00:40:22,840 --> 00:40:24,720
+built a programmer, a
+big application, that's
+
+825
+00:40:24,720 --> 00:40:25,780
+really small.
+
+826
+00:40:25,780 --> 00:40:28,610
+It's very easy just to go in
+and see exactly what's going on.
+
+827
+00:40:28,610 --> 00:40:29,890
+So it's very flexible.
+
+828
+00:40:29,890 --> 00:40:31,600
+We could hand it off
+to another company,
+
+829
+00:40:31,600 --> 00:40:33,900
+to another research group,
+and they go in and adapt
+
+830
+00:40:33,900 --> 00:40:35,800
+it to just about any data set.
+
+831
+00:40:35,800 --> 00:40:39,880
+If you are able to get data in
+California, or from Germany,
+
+832
+00:40:39,880 --> 00:40:42,950
+or from somewhere else, and
+bring it into our format,
+
+833
+00:40:42,950 --> 00:40:46,240
+it's very easy just to plug
+it in and run the data.
+
+834
+00:40:46,240 --> 00:40:49,930
+Very, very minimal
+changes within our code.
+
+835
+00:40:49,930 --> 00:40:52,280
+And then you could
+also build on our code
+
+836
+00:40:52,280 --> 00:40:53,680
+to look at other problems.
+
+837
+00:40:53,680 --> 00:40:57,420
+So we have the change in the--
+we have the variability data
+
+838
+00:40:57,420 --> 00:40:58,794
+as a function of time.
+
+839
+00:40:58,794 --> 00:41:00,960
+We also have the solar
+output as a function of time.
+
+840
+00:41:00,960 --> 00:41:03,580
+So you could conceivably
+go in and figure out
+
+841
+00:41:03,580 --> 00:41:05,460
+how your meantime
+between failure changes
+
+842
+00:41:05,460 --> 00:41:10,522
+based on the time of day and
+change your critical percentage
+
+843
+00:41:10,522 --> 00:41:11,980
+based on the time
+of day, and there
+
+844
+00:41:11,980 --> 00:41:14,640
+are several other problems that
+you could go, and launch off
+
+845
+00:41:14,640 --> 00:41:17,660
+of our code, and continue on.
+
+846
+00:41:17,660 --> 00:41:20,060
+And if you're interested
+at all, I actually
+
+847
+00:41:20,060 --> 00:41:22,660
+put the code of my public space.
+
+848
+00:41:22,660 --> 00:41:23,989
+There's the link there.
+
+849
+00:41:23,989 --> 00:41:24,530
+Check it out.
+
+850
+00:41:24,530 --> 00:41:26,490
+It's pretty cool.
+
+851
+00:41:26,490 --> 00:41:29,410
+And then Ashley is going
+to talk about our results.
+
+852
+00:41:37,300 --> 00:41:43,240
+ASHLEY: Cool, so the first
+thing that we did in order
+
+853
+00:41:43,240 --> 00:41:47,550
+to try to see the trends in
+these huge fields of data
+
+854
+00:41:47,550 --> 00:41:49,010
+was just to plot the data.
+
+855
+00:41:49,010 --> 00:41:50,494
+It was actually a
+much bigger task
+
+856
+00:41:50,494 --> 00:41:51,910
+than I thought it
+was going to be.
+
+857
+00:41:54,590 --> 00:41:57,190
+The plot on the left is for
+one day's worth of data,
+
+858
+00:41:57,190 --> 00:42:01,930
+and the plot on the right
+is one week's worth of data.
+
+859
+00:42:01,930 --> 00:42:04,880
+The y-axis is power density
+in watts per square meter,
+
+860
+00:42:04,880 --> 00:42:08,280
+and the x-axis is
+the time in seconds.
+
+861
+00:42:08,280 --> 00:42:11,370
+The blue is all 17 of
+our systems together,
+
+862
+00:42:11,370 --> 00:42:13,820
+and the red is just
+for one system.
+
+863
+00:42:13,820 --> 00:42:17,766
+So as you would assume,
+the power output for all 17
+
+864
+00:42:17,766 --> 00:42:19,140
+together is clearly
+a lot greater
+
+865
+00:42:19,140 --> 00:42:21,250
+than the output from
+just one system,
+
+866
+00:42:21,250 --> 00:42:24,300
+but this give us a sense of
+being able to see fluctuations
+
+867
+00:42:24,300 --> 00:42:26,770
+within one day, and
+also were able to see
+
+868
+00:42:26,770 --> 00:42:29,770
+when the sun rose, and peaked,
+and also fell each day.
+
+869
+00:42:33,370 --> 00:42:36,680
+And in order to quantify all
+those different fluctuations,
+
+870
+00:42:36,680 --> 00:42:41,680
+we did the fractional change
+in power density versus time,
+
+871
+00:42:41,680 --> 00:42:43,900
+once again, for one day,
+and then for one week.
+
+872
+00:42:43,900 --> 00:42:46,030
+And red is the one system.
+
+873
+00:42:46,030 --> 00:42:48,680
+Blue is all 17 systems
+together, and we can already
+
+874
+00:42:48,680 --> 00:42:53,090
+see just from plotting the
+data that having all 17
+
+875
+00:42:53,090 --> 00:42:55,330
+systems together does
+start to average out
+
+876
+00:42:55,330 --> 00:42:58,480
+the fluctuations of
+individual systems
+
+877
+00:42:58,480 --> 00:42:59,833
+by a significant amount.
+
+878
+00:43:04,270 --> 00:43:07,310
+So then Rita earlier
+mentioned that we use 6%
+
+879
+00:43:07,310 --> 00:43:09,870
+as our cut off for failure.
+
+880
+00:43:09,870 --> 00:43:12,920
+We actually went ahead and
+did 6%, 12%, and 18% just
+
+881
+00:43:12,920 --> 00:43:16,110
+to see how sensitive our
+analysis was to that threshold
+
+882
+00:43:16,110 --> 00:43:17,640
+value.
+
+883
+00:43:17,640 --> 00:43:19,504
+So here we have
+plotted on the left
+
+884
+00:43:19,504 --> 00:43:21,920
+the meantime between failure
+versus the number of systems,
+
+885
+00:43:21,920 --> 00:43:23,790
+and on the right,
+meantime between failure
+
+886
+00:43:23,790 --> 00:43:26,690
+versus the geometric
+mean distance.
+
+887
+00:43:26,690 --> 00:43:29,611
+I also calculated
+these values for using
+
+888
+00:43:29,611 --> 00:43:31,610
+a week's worth of data,
+a month's worth of data,
+
+889
+00:43:31,610 --> 00:43:33,330
+and a year's worth of data.
+
+890
+00:43:33,330 --> 00:43:35,900
+So the week would give
+you more fluctuations,
+
+891
+00:43:35,900 --> 00:43:38,820
+but the year would give you the
+more long-term overall system
+
+892
+00:43:38,820 --> 00:43:39,849
+behavior.
+
+893
+00:43:39,849 --> 00:43:42,390
+Relationship between the mean
+time between failure and number
+
+894
+00:43:42,390 --> 00:43:45,430
+of systems is quadratic, and
+we found a linear relationship
+
+895
+00:43:45,430 --> 00:43:49,200
+between the mean time
+between failure and the GMD.
+
+896
+00:43:49,200 --> 00:43:52,720
+So this is four 6% cut off.
+
+897
+00:43:52,720 --> 00:43:58,910
+This is for 12% cut off,
+and this is for 18% cut off.
+
+898
+00:43:58,910 --> 00:44:01,930
+And the mean time
+between failure
+
+899
+00:44:01,930 --> 00:44:04,590
+increases dramatically
+as you go from the 6% cut
+
+900
+00:44:04,590 --> 00:44:07,224
+off to the 18% cut off.
+
+901
+00:44:07,224 --> 00:44:08,890
+So a lot of this makes
+sense, but it was
+
+902
+00:44:08,890 --> 00:44:10,098
+really cool to quantify that.
+
+903
+00:44:24,920 --> 00:44:28,580
+RITA: So after
+applying those graphs
+
+904
+00:44:28,580 --> 00:44:32,400
+we could take our conclusions
+and answer our question.
+
+905
+00:44:32,400 --> 00:44:36,840
+And so the first thing that we
+noticed, but we were expecting,
+
+906
+00:44:36,840 --> 00:44:38,530
+is that a big data
+sample should be
+
+907
+00:44:38,530 --> 00:44:42,520
+used if conclusions are going
+to be used as a design tool.
+
+908
+00:44:42,520 --> 00:44:46,260
+As Ashley said, we used for
+a week, a month, and a year.
+
+909
+00:44:46,260 --> 00:44:51,380
+And so we know that the
+bigger the data set,
+
+910
+00:44:51,380 --> 00:44:53,480
+it's going to be--
+it's not going
+
+911
+00:44:53,480 --> 00:44:56,000
+to be influenced by
+abnormal things that
+
+912
+00:44:56,000 --> 00:44:58,600
+can happen in a given day.
+
+913
+00:44:58,600 --> 00:45:00,920
+And we also saw that
+there is a linear relation
+
+914
+00:45:00,920 --> 00:45:04,470
+between mean time
+between failure and GMD.
+
+915
+00:45:04,470 --> 00:45:08,200
+When GMD increases-- that
+is, when density decreases--
+
+916
+00:45:08,200 --> 00:45:10,880
+we are going to have an increase
+in mean time between failure.
+
+917
+00:45:10,880 --> 00:45:12,950
+This was also what
+we were expecting
+
+918
+00:45:12,950 --> 00:45:15,480
+because the local
+effects will not affect
+
+919
+00:45:15,480 --> 00:45:17,820
+systems that are further apart.
+
+920
+00:45:17,820 --> 00:45:20,340
+We also saw that there
+was a quadratic relation
+
+921
+00:45:20,340 --> 00:45:23,640
+between mean time between
+failure and number of systems.
+
+922
+00:45:23,640 --> 00:45:25,050
+Number of systems increased.
+
+923
+00:45:25,050 --> 00:45:27,710
+Mean time between
+failures also increased.
+
+924
+00:45:27,710 --> 00:45:31,330
+This was also according
+to what we expected
+
+925
+00:45:31,330 --> 00:45:36,010
+because we know that the
+percentage and the total output
+
+926
+00:45:36,010 --> 00:45:39,290
+is going to be lower.
+
+927
+00:45:39,290 --> 00:45:43,980
+We also saw that the mean time
+between failure is very low,
+
+928
+00:45:43,980 --> 00:45:46,570
+even when we can see
+the 17 systems together,
+
+929
+00:45:46,570 --> 00:45:50,540
+we have about 900
+seconds between failures.
+
+930
+00:45:50,540 --> 00:45:52,820
+This means that
+some backup systems
+
+931
+00:45:52,820 --> 00:45:55,610
+should be used in order
+to take over the load
+
+932
+00:45:55,610 --> 00:45:57,270
+when we have a failure.
+
+933
+00:45:57,270 --> 00:45:59,030
+And so now we're
+running conditions
+
+934
+00:45:59,030 --> 00:46:00,630
+to ask our first question.
+
+935
+00:46:00,630 --> 00:46:02,720
+And so we conclude
+that localized
+
+936
+00:46:02,720 --> 00:46:07,010
+predictable intermittency
+do average out
+
+937
+00:46:07,010 --> 00:46:09,860
+and that this effect decreases
+as the number of systems
+
+938
+00:46:09,860 --> 00:46:12,370
+and the GMD increase.
+
+939
+00:46:12,370 --> 00:46:15,580
+The data that we used
+was for 17 systems,
+
+940
+00:46:15,580 --> 00:46:19,130
+and the biggest distance
+between them was one kilometer.
+
+941
+00:46:19,130 --> 00:46:21,490
+So we believe that
+it's important to run
+
+942
+00:46:21,490 --> 00:46:28,090
+our code for a bigger set of
+data, because only in this way
+
+943
+00:46:28,090 --> 00:46:31,660
+we can confirm our
+conclusions and guidelines
+
+944
+00:46:31,660 --> 00:46:34,920
+for the design of PV
+systems can be defined.
+
+945
+00:46:34,920 --> 00:46:37,538
+Thank you, and we'll be happy
+to answer your questions.
+
+946
+00:46:37,538 --> 00:46:40,526
+[APPLAUSE]
+
+947
+00:46:44,385 --> 00:46:45,760
+JOE SULLIVAN: So
+a couple things.
+
+948
+00:46:45,760 --> 00:46:47,676
+First of all, you ended
+at exactly 15 minutes.
+
+949
+00:46:47,676 --> 00:46:49,956
+I find that remarkable.
+
+950
+00:46:49,956 --> 00:46:51,080
+Additionally, just-- sorry.
+
+951
+00:46:51,080 --> 00:46:54,030
+Can you repeat what exactly
+a failure mode is defined as?
+
+952
+00:46:54,030 --> 00:46:56,270
+Are you looking at 6%
+intermittency varying
+
+953
+00:46:56,270 --> 00:46:57,250
+from second to second?
+
+954
+00:46:57,250 --> 00:46:59,624
+So if you look at the output
+from one second to the next,
+
+955
+00:46:59,624 --> 00:47:00,880
+does that change by over 6%?
+
+956
+00:47:00,880 --> 00:47:01,419
+RITA: Mm-hm.
+
+957
+00:47:01,419 --> 00:47:03,460
+JOE SULLIVAN: It wasn't
+average out over an hour.
+
+958
+00:47:03,460 --> 00:47:04,270
+RITA: No, no.
+
+959
+00:47:04,270 --> 00:47:05,270
+It was second by second.
+
+960
+00:47:05,270 --> 00:47:08,490
+JOE SULLIVAN: You got
+the 6% from Cal ISO.
+
+961
+00:47:08,490 --> 00:47:15,486
+RITA: We said that if there--
+in a given hour, we measured--
+
+962
+00:47:15,486 --> 00:47:17,158
+let me just--
+
+963
+00:47:17,158 --> 00:47:19,350
+JARED: They only had an
+hour of data [INAUDIBLE].
+
+964
+00:47:19,350 --> 00:47:21,220
+RITA: Yeah, they only
+gave hourly data.
+
+965
+00:47:21,220 --> 00:47:25,750
+So the difference
+between the actual demand
+
+966
+00:47:25,750 --> 00:47:28,140
+and the hour-ahead
+demand forecast.
+
+967
+00:47:28,140 --> 00:47:32,812
+So this is what they are
+expecting, but the difference
+
+968
+00:47:32,812 --> 00:47:35,270
+between what they are expecting
+and what the grid is really
+
+969
+00:47:35,270 --> 00:47:36,630
+asking them.
+
+970
+00:47:36,630 --> 00:47:41,050
+So if they can manage this
+difference on a second base,
+
+971
+00:47:41,050 --> 00:47:43,772
+they can also manage this
+difference on the PV grid.
+
+972
+00:47:43,772 --> 00:47:45,480
+JOE SULLIVAN: So you
+took the worst case.
+
+973
+00:47:45,480 --> 00:47:46,850
+Is that how you got 6%?
+
+974
+00:47:46,850 --> 00:47:49,040
+RITA: Yeah, we took the
+average of the worst case.
+
+975
+00:47:49,040 --> 00:47:50,430
+It's the 5:00 PM.
+
+976
+00:47:50,430 --> 00:47:52,740
+The 5:00 PM is always
+the worst hour.
+
+977
+00:47:52,740 --> 00:47:54,690
+It's always when
+they have that peak.
+
+978
+00:47:54,690 --> 00:47:57,195
+And in fact, all of the
+base-- almost all of the base
+
+979
+00:47:57,195 --> 00:47:58,780
+were around 6%.
+
+980
+00:47:58,780 --> 00:48:04,397
+Our peak was like 6.8%, and
+we averaged, and it was 6%.
+
+981
+00:48:04,397 --> 00:48:05,855
+MARK WINKLER: So
+that's essentially
+
+982
+00:48:05,855 --> 00:48:08,350
+their peaking capacity?
+
+983
+00:48:08,350 --> 00:48:09,470
+RITA: Yeah.
+
+984
+00:48:09,470 --> 00:48:12,180
+ASHLEY: Also, so I
+actually wrote down
+
+985
+00:48:12,180 --> 00:48:16,370
+the numbers for
+6% function, 18%--
+
+986
+00:48:16,370 --> 00:48:17,880
+like our mean time
+between failure.
+
+987
+00:48:17,880 --> 00:48:24,280
+For 6%, we had up to 15
+minutes between failure.
+
+988
+00:48:24,280 --> 00:48:30,010
+So it's a pretty low amount
+of time between failures.
+
+989
+00:48:30,010 --> 00:48:33,180
+And if you allow 12%
+as your intermittency,
+
+990
+00:48:33,180 --> 00:48:35,290
+you can get up to
+about half a day.
+
+991
+00:48:35,290 --> 00:48:39,730
+And then for 18% as your cut
+off, you get about nine days.
+
+992
+00:48:39,730 --> 00:48:42,675
+So it is still
+very intermittent,
+
+993
+00:48:42,675 --> 00:48:45,420
+and you would pretty often have
+to have backup systems if you
+
+994
+00:48:45,420 --> 00:48:47,460
+had the small of a system.
+
+995
+00:48:47,460 --> 00:48:52,350
+So if you had a much wider
+spread system and a lot more
+
+996
+00:48:52,350 --> 00:48:54,730
+systems in your grid,
+then you could definitely
+
+997
+00:48:54,730 --> 00:48:58,126
+significantly increase the
+mean time between failure.
+
+998
+00:48:58,126 --> 00:48:59,606
+Yeah, Joe?
+
+999
+00:48:59,606 --> 00:49:01,480
+JOE SULLIVAN: So you
+have this awesome graph.
+
+1000
+00:49:01,480 --> 00:49:04,090
+So if you go back to
+the time between failure
+
+1001
+00:49:04,090 --> 00:49:06,850
+number of systems.
+
+1002
+00:49:06,850 --> 00:49:09,730
+The interesting takeaway
+is how large of an area
+
+1003
+00:49:09,730 --> 00:49:12,290
+do you have average over, right?
+
+1004
+00:49:12,290 --> 00:49:14,580
+So 300 seconds on
+a grid perspective
+
+1005
+00:49:14,580 --> 00:49:17,720
+is unacceptable for
+widespread PV developed point.
+
+1006
+00:49:17,720 --> 00:49:19,770
+We need to be on
+the order of years.
+
+1007
+00:49:19,770 --> 00:49:22,209
+And so do you have an idea
+of what that distance is?
+
+1008
+00:49:22,209 --> 00:49:23,792
+ASHLEY: If we just
+extrapolate it out?
+
+1009
+00:49:23,792 --> 00:49:25,958
+JOE SULLIVAN: If you
+extrapolate-- this is obviously
+
+1010
+00:49:25,958 --> 00:49:29,537
+like we're taking the very, very
+edge of that function and then
+
+1011
+00:49:29,537 --> 00:49:30,620
+extrapolating [INAUDIBLE].
+
+1012
+00:49:30,620 --> 00:49:31,690
+ASHLEY: So looking
+at the numbers--
+
+1013
+00:49:31,690 --> 00:49:33,450
+JOE SULLIVAN: But it looks like
+it's going up exponentially,
+
+1014
+00:49:33,450 --> 00:49:35,900
+or do you have an idea
+of what that trend is?
+
+1015
+00:49:35,900 --> 00:49:37,830
+ASHLEY: For 6% for
+the one year, it
+
+1016
+00:49:37,830 --> 00:49:39,705
+was almost exactly x squared.
+
+1017
+00:49:39,705 --> 00:49:44,142
+It was like x squared plus
+50, or 100, or whatever
+
+1018
+00:49:44,142 --> 00:49:47,535
+that would be.
+
+1019
+00:49:47,535 --> 00:49:50,400
+So if you want, you
+could say, mean time
+
+1020
+00:49:50,400 --> 00:49:54,750
+how many seconds are in a
+year equals number squared.
+
+1021
+00:49:54,750 --> 00:49:57,350
+So the square root of however
+many number of seconds
+
+1022
+00:49:57,350 --> 00:49:59,070
+there are in a
+year would give you
+
+1023
+00:49:59,070 --> 00:50:02,666
+your number of systems required
+for a year between failures.
+
+1024
+00:50:02,666 --> 00:50:05,040
+IBRAHIM: But this is for a
+given geometric mean distance,
+
+1025
+00:50:05,040 --> 00:50:06,950
+so you have two factors.
+
+1026
+00:50:06,950 --> 00:50:09,330
+If you sort of
+spread them out more,
+
+1027
+00:50:09,330 --> 00:50:12,580
+probably going to
+require less systems.
+
+1028
+00:50:12,580 --> 00:50:14,902
+JARED: And if you
+looked that map,
+
+1029
+00:50:14,902 --> 00:50:17,530
+that's all at the end of a
+runway at the Honolulu airport.
+
+1030
+00:50:17,530 --> 00:50:20,570
+So if you have a huge
+field in Arizona,
+
+1031
+00:50:20,570 --> 00:50:24,940
+thousands of systems, your
+mean time between failure
+
+1032
+00:50:24,940 --> 00:50:26,260
+is going to be a lot better.
+
+1033
+00:50:26,260 --> 00:50:28,718
+MARK WINKLER: So I'm actually
+really surprised that there's
+
+1034
+00:50:28,718 --> 00:50:30,630
+such a huge effect
+from adding systems,
+
+1035
+00:50:30,630 --> 00:50:34,130
+just because it seems as
+though the relevant length
+
+1036
+00:50:34,130 --> 00:50:36,650
+scales for weather
+should be very large.
+
+1037
+00:50:36,650 --> 00:50:39,177
+Do you guys say
+anything about that?
+
+1038
+00:50:39,177 --> 00:50:41,510
+JARED: I think the idea was
+that, for long-term weather,
+
+1039
+00:50:41,510 --> 00:50:42,360
+you can predict that.
+
+1040
+00:50:42,360 --> 00:50:43,776
+So if you know
+there's going to be
+
+1041
+00:50:43,776 --> 00:50:46,250
+a storm front coming through,
+you can add natural gas.
+
+1042
+00:50:46,250 --> 00:50:47,594
+You can add coal to the system.
+
+1043
+00:50:47,594 --> 00:50:48,094
+Back up--
+
+1044
+00:50:48,094 --> 00:50:50,052
+ASHLEY: And that would
+cover the entire system.
+
+1045
+00:50:50,052 --> 00:50:52,650
+JARED: Our kind of variability
+we're talking about
+
+1046
+00:50:52,650 --> 00:50:55,879
+is say, if one cloud goes
+over, or a flock of birds,
+
+1047
+00:50:55,879 --> 00:50:56,420
+or something.
+
+1048
+00:50:56,420 --> 00:50:58,630
+So we were thinking
+that would be
+
+1049
+00:50:58,630 --> 00:51:00,760
+on a few seconds
+for a single module
+
+1050
+00:51:00,760 --> 00:51:04,490
+for a cloud just go over
+shade it for a short distance.
+
+1051
+00:51:04,490 --> 00:51:06,630
+So if you add
+thousands of modules,
+
+1052
+00:51:06,630 --> 00:51:09,744
+the other modules wouldn't
+be shaded while that one is.
+
+1053
+00:51:09,744 --> 00:51:11,160
+MARK WINKLER: But
+these fields-- I
+
+1054
+00:51:11,160 --> 00:51:16,380
+mean, 100 meters on the
+scale of cloud cover,
+
+1055
+00:51:16,380 --> 00:51:19,300
+this still seems like a
+somewhat small length scale.
+
+1056
+00:51:19,300 --> 00:51:20,940
+Let me rephrase the question.
+
+1057
+00:51:20,940 --> 00:51:22,870
+Do you think that the
+graph on the right
+
+1058
+00:51:22,870 --> 00:51:24,970
+would be a smooth
+function of distance,
+
+1059
+00:51:24,970 --> 00:51:26,428
+or do you think
+there's some length
+
+1060
+00:51:26,428 --> 00:51:28,870
+scale at which the
+behavior on that plot
+
+1061
+00:51:28,870 --> 00:51:30,130
+changes significantly?
+
+1062
+00:51:33,136 --> 00:51:35,260
+JARED: That would be
+interesting if we could find--
+
+1063
+00:51:35,260 --> 00:51:37,230
+ASHLEY: The assumption
+is definitely
+
+1064
+00:51:37,230 --> 00:51:41,842
+evenly dispersed in an area.
+
+1065
+00:51:41,842 --> 00:51:44,300
+JARED: That would be something
+that, if we had another data
+
+1066
+00:51:44,300 --> 00:51:46,250
+set that had wider
+distances, it would
+
+1067
+00:51:46,250 --> 00:51:48,262
+be very easy to plug it in.
+
+1068
+00:51:48,262 --> 00:51:49,720
+I think our code's
+really flexible.
+
+1069
+00:51:49,720 --> 00:51:51,860
+It would show us
+that relationship.
+
+1070
+00:51:51,860 --> 00:51:53,780
+MARK WINKLER: What do
+you guys think, though?
+
+1071
+00:51:53,780 --> 00:51:55,372
+JARED: It's a good question.
+
+1072
+00:51:55,372 --> 00:52:00,380
+ASHLEY: I wouldn't be surprised
+if it was linear still.
+
+1073
+00:52:00,380 --> 00:52:02,400
+I guess another
+complexity we could do
+
+1074
+00:52:02,400 --> 00:52:06,040
+would be you would
+have-- right now we just
+
+1075
+00:52:06,040 --> 00:52:09,180
+have one big field of
+systems, but if you
+
+1076
+00:52:09,180 --> 00:52:13,620
+had one set of systems that
+was spaced x distances apart,
+
+1077
+00:52:13,620 --> 00:52:16,380
+and then you had some
+number of kilometers
+
+1078
+00:52:16,380 --> 00:52:19,160
+away from another
+one space-- I'm not
+
+1079
+00:52:19,160 --> 00:52:21,130
+sure how exactly
+would model that,
+
+1080
+00:52:21,130 --> 00:52:22,784
+but I think that
+at that point I'm
+
+1081
+00:52:22,784 --> 00:52:24,450
+not sure what the
+curve would look like,
+
+1082
+00:52:24,450 --> 00:52:30,912
+but a continuing linear
+trend seems reasonable to me.
+
+1083
+00:52:30,912 --> 00:52:33,798
+IBRAHIM: So I guess another
+thing to keep in mind
+
+1084
+00:52:33,798 --> 00:52:36,680
+is we did not take into
+account transmission costs,
+
+1085
+00:52:36,680 --> 00:52:41,280
+so I guess you'd have to weigh
+the cost of failure versus, I
+
+1086
+00:52:41,280 --> 00:52:44,610
+guess, the added incurred
+cost for transmission lines
+
+1087
+00:52:44,610 --> 00:52:47,940
+and so on, so there's
+sort of an optimum point
+
+1088
+00:52:47,940 --> 00:52:50,090
+where you want to
+space them and have
+
+1089
+00:52:50,090 --> 00:52:53,580
+a certain number of
+systems where I guess,
+
+1090
+00:52:53,580 --> 00:52:57,580
+after a certain point, your
+returns diminish and are not
+
+1091
+00:52:57,580 --> 00:53:00,840
+equal to, I guess,
+the cost of failure.
+
+1092
+00:53:00,840 --> 00:53:02,660
+So that's something
+where, I guess,
+
+1093
+00:53:02,660 --> 00:53:04,892
+future people can
+come in and expand on.
+
+1094
+00:53:09,820 --> 00:53:13,860
+AUDIENCE: So all this
+is data from Hawaii,
+
+1095
+00:53:13,860 --> 00:53:20,370
+which has a very notable
+climate and weather.
+
+1096
+00:53:20,370 --> 00:53:22,800
+I've never been there, but--
+
+1097
+00:53:22,800 --> 00:53:25,230
+[LAUGHTER]
+
+1098
+00:53:25,230 --> 00:53:29,750
+Do you think that this is
+really-- your code is flexible,
+
+1099
+00:53:29,750 --> 00:53:33,680
+so I understand that, but do
+you think the conclusions are
+
+1100
+00:53:33,680 --> 00:53:38,810
+really extensible to
+other parts of the world
+
+1101
+00:53:38,810 --> 00:53:42,884
+with different weather
+patterns or climate?
+
+1102
+00:53:42,884 --> 00:53:47,250
+RITA: That's why we think
+that the future mark is really
+
+1103
+00:53:47,250 --> 00:53:51,570
+to do it for a different place
+and for a bigger set of date
+
+1104
+00:53:51,570 --> 00:53:55,914
+because we really want to be
+sure that the conclusions are
+
+1105
+00:53:55,914 --> 00:54:03,420
+going to be applicable, because
+we had that same question.
+
+1106
+00:54:03,420 --> 00:54:06,085
+We were talking just
+about a small place.
+
+1107
+00:54:06,085 --> 00:54:09,550
+We said that it's one kilometer
+apart for the distance
+
+1108
+00:54:09,550 --> 00:54:10,810
+that we have.
+
+1109
+00:54:10,810 --> 00:54:14,516
+So we also want to run
+for a bigger set of data
+
+1110
+00:54:14,516 --> 00:54:19,849
+and for another place just to
+be sure that our conclusions are
+
+1111
+00:54:19,849 --> 00:54:22,320
+applicable everywhere.
+
+1112
+00:54:22,320 --> 00:54:25,120
+JARED: And I would say the
+relationship would probably
+
+1113
+00:54:25,120 --> 00:54:27,870
+hold because if you have-- say,
+if your regional weather is
+
+1114
+00:54:27,870 --> 00:54:30,220
+very different, that
+wouldn't show up
+
+1115
+00:54:30,220 --> 00:54:33,586
+in the fractional second to
+second difference that we had.
+
+1116
+00:54:33,586 --> 00:54:37,580
+And so the timescale
+that we measured it on I
+
+1117
+00:54:37,580 --> 00:54:42,140
+think would be, say, small
+clouds or intermittent events
+
+1118
+00:54:42,140 --> 00:54:45,850
+that would occur over a wide
+range of different climates.
+
+1119
+00:54:45,850 --> 00:54:49,120
+The general regional
+weather is predictable,
+
+1120
+00:54:49,120 --> 00:54:53,820
+and it isn't investigated
+in our study at all.
+
+1121
+00:54:53,820 --> 00:54:57,182
+So I would say I think
+the relation would hold.
+
+1122
+00:54:57,182 --> 00:54:58,640
+ASHLEY: I think
+that the big change
+
+1123
+00:54:58,640 --> 00:55:00,990
+between different regions
+would just be the total output
+
+1124
+00:55:00,990 --> 00:55:03,670
+power that you can
+get, but I think--
+
+1125
+00:55:03,670 --> 00:55:07,990
+I wouldn't be surprised if the
+fluctuation is still the same
+
+1126
+00:55:07,990 --> 00:55:09,360
+or is similar.
+
+1127
+00:55:09,360 --> 00:55:11,864
+And I think certainly that, as
+you increase a number systems
+
+1128
+00:55:11,864 --> 00:55:14,280
+and as you decrease the density
+with which they're packed,
+
+1129
+00:55:14,280 --> 00:55:16,320
+you should be able to
+have a more robust grid.
+
+1130
+00:55:16,320 --> 00:55:19,804
+I would be very surprised
+if that weren't the case.
+
+1131
+00:55:19,804 --> 00:55:23,710
+AUDIENCE: Do you see shading
+for planes at the airport?
+
+1132
+00:55:27,030 --> 00:55:29,140
+ASHLEY: There's no way
+for us to determine
+
+1133
+00:55:29,140 --> 00:55:30,690
+what causes the shading.
+
+1134
+00:55:30,690 --> 00:55:33,188
+The raw data we
+have is just output.
+
+1135
+00:55:33,188 --> 00:55:34,854
+JOE SULLIVAN: Can you
+see how they move?
+
+1136
+00:55:34,854 --> 00:55:35,752
+[LAUGHTER]
+
+1137
+00:55:35,752 --> 00:55:37,335
+ASHLEY: It's like
+there is this line--
+
+1138
+00:55:37,335 --> 00:55:38,010
+IBRAHIM: We actually
+did that for one plot.
+
+1139
+00:55:38,010 --> 00:55:40,400
+You could see the cloud
+moving around the plot.
+
+1140
+00:55:40,400 --> 00:55:40,910
+JOE SULLIVAN: That's cool.
+
+1141
+00:55:40,910 --> 00:55:42,680
+IBRAHIM: And you see the
+power output for [INAUDIBLE].
+
+1142
+00:55:42,680 --> 00:55:44,740
+ASHLEY: Yeah, it was
+on the order of-- we
+
+1143
+00:55:44,740 --> 00:55:48,540
+had like two billion
+data points, I think,
+
+1144
+00:55:48,540 --> 00:55:51,990
+which was overwhelming.
+
+1145
+00:55:51,990 --> 00:55:53,940
+But yeah, it was really cool.
+
+1146
+00:55:53,940 --> 00:55:54,905
+Any more questions?
+
+1147
+00:55:54,905 --> 00:55:55,405
+Yeah?
+
+1148
+00:55:58,550 --> 00:56:00,976
+AUDIENCE: Can you describe
+a little more what these PV
+
+1149
+00:56:00,976 --> 00:56:02,425
+system failures entail?
+
+1150
+00:56:02,425 --> 00:56:04,234
+And what happens,
+and how long does it
+
+1151
+00:56:04,234 --> 00:56:05,806
+take to get them
+back up and running?
+
+1152
+00:56:05,806 --> 00:56:07,738
+What has to be done to do that?
+
+1153
+00:56:07,738 --> 00:56:08,221
+ASHLEY: You wanna get that one?
+
+1154
+00:56:08,221 --> 00:56:08,721
+JARED: Sure.
+
+1155
+00:56:08,721 --> 00:56:11,445
+So basically there
+is a certain capacity
+
+1156
+00:56:11,445 --> 00:56:13,490
+that the grid would have.
+
+1157
+00:56:13,490 --> 00:56:19,612
+Say, you can compensate for a
+6% drop in this case, or a 20%
+
+1158
+00:56:19,612 --> 00:56:20,820
+drop, or something like that.
+
+1159
+00:56:20,820 --> 00:56:23,470
+So if your system is
+completely powered by PV,
+
+1160
+00:56:23,470 --> 00:56:26,700
+which is not realistic,
+and you have, say,
+
+1161
+00:56:26,700 --> 00:56:28,960
+a 20% drop and
+nothing to compensate
+
+1162
+00:56:28,960 --> 00:56:31,400
+that, you have a blackout.
+
+1163
+00:56:31,400 --> 00:56:34,470
+And so we investigated
+18%, for instance.
+
+1164
+00:56:34,470 --> 00:56:37,020
+So that would be,
+say, if your grid
+
+1165
+00:56:37,020 --> 00:56:39,290
+is a certain percentage
+of PV and then has
+
+1166
+00:56:39,290 --> 00:56:41,140
+natural gas, or
+coal, or something
+
+1167
+00:56:41,140 --> 00:56:43,840
+that you can bring
+online quickly
+
+1168
+00:56:43,840 --> 00:56:46,310
+to compensate a drop in PV.
+
+1169
+00:56:46,310 --> 00:56:50,780
+That would be an idea
+of what a failure is--
+
+1170
+00:56:50,780 --> 00:56:54,332
+if you aren't able to
+compensate that fluctuation
+
+1171
+00:56:54,332 --> 00:56:58,390
+AUDIENCE: And how
+long [INAUDIBLE]?
+
+1172
+00:56:58,390 --> 00:57:01,390
+JARED: How long
+would a failure last?
+
+1173
+00:57:01,390 --> 00:57:03,672
+It depends.
+
+1174
+00:57:03,672 --> 00:57:05,110
+If you can't meet the demand--
+
+1175
+00:57:05,110 --> 00:57:07,070
+AUDIENCE: [INAUDIBLE].
+
+1176
+00:57:07,070 --> 00:57:09,340
+JARED: For a PV system,
+I think the problem is
+
+1177
+00:57:09,340 --> 00:57:12,170
+the PV system would come back up
+right after the cloud was over,
+
+1178
+00:57:12,170 --> 00:57:14,800
+but if you can't
+meet power demand,
+
+1179
+00:57:14,800 --> 00:57:17,340
+you've got all kind
+of protection systems
+
+1180
+00:57:17,340 --> 00:57:20,360
+that would trip off,
+and it would be mess.
+
+1181
+00:57:20,360 --> 00:57:24,361
+So I don't think would
+come back very quickly.
+
+1182
+00:57:24,361 --> 00:57:25,985
+ASHLEY: That's a good
+question, though.
+
+1183
+00:57:25,985 --> 00:57:27,720
+JARED: That's a good question.
+
+1184
+00:57:27,720 --> 00:57:30,515
+PROFESSOR: It's relevant because
+you can envision back up power
+
+1185
+00:57:30,515 --> 00:57:33,390
+that could kick in really
+quick, but exhaust itself
+
+1186
+00:57:33,390 --> 00:57:37,040
+within the period of
+the delta t necessary.
+
+1187
+00:57:37,040 --> 00:57:39,750
+AUDIENCE: For your
+definition of intermittency,
+
+1188
+00:57:39,750 --> 00:57:43,170
+did you look at the absolute
+value or just the drop?
+
+1189
+00:57:43,170 --> 00:57:47,806
+Because the grid can't deal with
+excess power as well, and so
+
+1190
+00:57:47,806 --> 00:57:50,674
+I was just wondering if
+you had insight on that.
+
+1191
+00:57:50,674 --> 00:57:53,815
+Like if you dumped 60%
+more power in the demand,
+
+1192
+00:57:53,815 --> 00:57:54,940
+there's no way for you to--
+
+1193
+00:57:54,940 --> 00:57:56,980
+JARED: We did the
+absolute value.
+
+1194
+00:57:56,980 --> 00:57:59,810
+So 6% more, 6% less.
+
+1195
+00:58:03,650 --> 00:58:06,070
+JASMIN HOFSTETTER: So I'm
+going to ask you for real data.
+
+1196
+00:58:06,070 --> 00:58:08,760
+So do you know where
+more or less data points
+
+1197
+00:58:08,760 --> 00:58:14,050
+would lie for, let's say,
+PV systems on houses that
+
+1198
+00:58:14,050 --> 00:58:17,730
+are like-- with a
+typical distance
+
+1199
+00:58:17,730 --> 00:58:19,634
+in some kind of neighborhood.
+
+1200
+00:58:22,580 --> 00:58:24,350
+JARED: I think that
+would just be you
+
+1201
+00:58:24,350 --> 00:58:26,710
+would adjust your
+geometric mean distance
+
+1202
+00:58:26,710 --> 00:58:30,690
+to whatever the distance
+from the houses are.
+
+1203
+00:58:30,690 --> 00:58:33,510
+I don't think our data has to
+be a solar farm, for instance.
+
+1204
+00:58:33,510 --> 00:58:36,000
+I think it could be houses in
+a neighborhood, for instance.
+
+1205
+00:58:36,000 --> 00:58:39,970
+So if they're perfectly
+connected to the grid,
+
+1206
+00:58:39,970 --> 00:58:42,314
+I think that our code
+would account for that.
+
+1207
+00:58:42,314 --> 00:58:43,730
+ASHLEY: This was
+for eight, right?
+
+1208
+00:58:43,730 --> 00:58:45,250
+JARED: Uh-huh.
+
+1209
+00:58:45,250 --> 00:58:47,820
+ASHLEY: The right-hand graphic
+held the number of systems
+
+1210
+00:58:47,820 --> 00:58:48,393
+at eight.
+
+1211
+00:58:48,393 --> 00:58:51,370
+And so if you had eight
+houses spread apart
+
+1212
+00:58:51,370 --> 00:58:56,260
+by an average of 150
+meters, then you would--
+
+1213
+00:58:56,260 --> 00:59:01,620
+and if you considered a year's
+worth of data-- is it like 250?
+
+1214
+00:59:01,620 --> 00:59:03,480
+I just can't see it.
+
+1215
+00:59:03,480 --> 00:59:08,660
+So you'd have meantime between
+failure of 250 seconds, which
+
+1216
+00:59:08,660 --> 00:59:12,426
+is four minutes?
+
+1217
+00:59:12,426 --> 00:59:13,530
+Doing math under pressure.
+
+1218
+00:59:13,530 --> 00:59:15,890
+JARED: Right, but if you
+have a grid to back that up,
+
+1219
+00:59:15,890 --> 00:59:18,697
+it's not big of a deal.
+
+1220
+00:59:18,697 --> 00:59:21,030
+AUDIENCE: I'm confused about
+the plot on the right here.
+
+1221
+00:59:21,030 --> 00:59:24,000
+What it's suggesting is
+that one week you picked
+
+1222
+00:59:24,000 --> 00:59:26,972
+was significantly below the
+year average [INAUDIBLE],
+
+1223
+00:59:26,972 --> 00:59:29,096
+and you could have equally
+picked another week that
+
+1224
+00:59:29,096 --> 00:59:29,450
+was significantly above.
+
+1225
+00:59:29,450 --> 00:59:30,150
+JARED: Right.
+
+1226
+00:59:30,150 --> 00:59:33,197
+This was, I think,
+just to give the trend.
+
+1227
+00:59:33,197 --> 00:59:35,530
+The relationship between the
+day, and a week, and a year
+
+1228
+00:59:35,530 --> 00:59:37,295
+is just the day
+that we-- I'm sorry.
+
+1229
+00:59:37,295 --> 00:59:39,753
+A week, and a month, and a year
+is just the week we picked,
+
+1230
+00:59:39,753 --> 00:59:40,640
+the month we picked.
+
+1231
+00:59:40,640 --> 00:59:42,490
+I think you see on
+some of the other plots
+
+1232
+00:59:42,490 --> 00:59:44,360
+that the week and the
+month actually shift.
+
+1233
+00:59:44,360 --> 00:59:47,065
+It's just the year was kind
+of the average of those.
+
+1234
+00:59:50,040 --> 00:59:53,690
+MARK WINKLER: I would
+assume that areas,
+
+1235
+00:59:53,690 --> 00:59:58,080
+or specifically countries, that
+made large investments in solar
+
+1236
+00:59:58,080 --> 01:00:01,880
+would have studied this
+question in a detailed fashion.
+
+1237
+01:00:01,880 --> 01:00:04,950
+Do you know if, for example,
+Germany or Spain have looked
+
+1238
+01:00:04,950 --> 01:00:07,814
+at this problem when it's spread
+across hundreds of kilometers.
+
+1239
+01:00:07,814 --> 01:00:09,630
+ASHLEY: Ibrahim, do
+you know that one?
+
+1240
+01:00:09,630 --> 01:00:10,546
+I think you might be--
+
+1241
+01:00:10,546 --> 01:00:12,600
+IBRAHIM: I was actually
+very-- we didn't find
+
+1242
+01:00:12,600 --> 01:00:14,350
+a lot of literature actually.
+
+1243
+01:00:14,350 --> 01:00:16,820
+For wind, there was a
+lot of data out there,
+
+1244
+01:00:16,820 --> 01:00:20,920
+I guess, because the high
+penetration levels with PV.
+
+1245
+01:00:20,920 --> 01:00:24,760
+There were very few studies.
+
+1246
+01:00:24,760 --> 01:00:27,110
+Most of them actually
+were addressing the US.
+
+1247
+01:00:27,110 --> 01:00:29,810
+I didn't find any, actually,
+on Germany or Spain.
+
+1248
+01:00:29,810 --> 01:00:31,690
+Probably maybe they're
+in Spanish or German,
+
+1249
+01:00:31,690 --> 01:00:32,670
+so I don't know.
+
+1250
+01:00:36,100 --> 01:00:37,600
+JOE SULLIVAN: So
+what I find really
+
+1251
+01:00:37,600 --> 01:00:39,370
+startling is that,
+for a given system,
+
+1252
+01:00:39,370 --> 01:00:41,840
+the time between failure
+of the 6% intermittency
+
+1253
+01:00:41,840 --> 01:00:43,660
+is on the order of a minute.
+
+1254
+01:00:43,660 --> 01:00:46,900
+Do you have any the idea-- is
+that vastly different for wind
+
+1255
+01:00:46,900 --> 01:00:48,300
+and what that number is?
+
+1256
+01:00:48,300 --> 01:00:49,927
+And this is outside
+of your-- I'm
+
+1257
+01:00:49,927 --> 01:00:51,885
+just wondering if in your
+literature searching.
+
+1258
+01:00:51,885 --> 01:00:52,675
+JARED: You probably
+know the most about it.
+
+1259
+01:00:52,675 --> 01:00:53,500
+ASHLEY: You would know from it.
+
+1260
+01:00:53,500 --> 01:00:54,360
+JOE SULLIVAN: It seems like
+you have this big rotor.
+
+1261
+01:00:54,360 --> 01:00:56,850
+There's some momentum, and
+that to slow that thing down
+
+1262
+01:00:56,850 --> 01:01:00,109
+requires more time, but
+I don't-- as opposed
+
+1263
+01:01:00,109 --> 01:01:00,650
+to electrons.
+
+1264
+01:01:00,650 --> 01:01:03,317
+JARED: I would say
+wind would definitely
+
+1265
+01:01:03,317 --> 01:01:05,400
+have a much longer time
+scale than solar, I think.
+
+1266
+01:01:05,400 --> 01:01:08,197
+There's a lot of momentum there.
+
+1267
+01:01:08,197 --> 01:01:12,109
+RITA: But when wind stops,
+the times that you have
+
+1268
+01:01:12,109 --> 01:01:14,046
+intermittency is going
+to be much bigger.
+
+1269
+01:01:14,046 --> 01:01:15,420
+And there'd be
+backup systems you
+
+1270
+01:01:15,420 --> 01:01:19,100
+need to have to take over
+for a long period of time.
+
+1271
+01:01:19,100 --> 01:01:20,595
+JARED: And maybe
+in high winds you
+
+1272
+01:01:20,595 --> 01:01:23,500
+would have more of an issue,
+because if the turbine is
+
+1273
+01:01:23,500 --> 01:01:25,500
+spinning too fast, you
+actually have to stop it.
+
+1274
+01:01:25,500 --> 01:01:28,960
+So maybe there you'd run
+into issues of variability
+
+1275
+01:01:28,960 --> 01:01:30,600
+on the order of minutes.
+
+1276
+01:01:37,320 --> 01:01:39,048
+AUDIENCE: So I
+think-- and this is
+
+1277
+01:01:39,048 --> 01:01:42,350
+kind of going back to location
+data set-- comes from Hawaii,
+
+1278
+01:01:42,350 --> 01:01:46,251
+which I would imagine has
+mostly direct sunlight.
+
+1279
+01:01:46,251 --> 01:01:49,017
+For locations such as
+Boston, would the data
+
+1280
+01:01:49,017 --> 01:01:52,490
+set change for,
+say, diffuse light
+
+1281
+01:01:52,490 --> 01:01:57,902
+and would that generally bring
+in panels closer together
+
+1282
+01:01:57,902 --> 01:02:00,977
+or require more panels at
+the same geometric distance
+
+1283
+01:02:00,977 --> 01:02:03,970
+to get the same results?
+
+1284
+01:02:03,970 --> 01:02:08,450
+ASHLEY: Well, the raw data
+that we have doesn't separate
+
+1285
+01:02:08,450 --> 01:02:12,440
+direct and diffuse, so I think
+that the first thing would
+
+1286
+01:02:12,440 --> 01:02:16,240
+be we'd want to
+look at a data set
+
+1287
+01:02:16,240 --> 01:02:19,400
+and from whatever
+other location you
+
+1288
+01:02:19,400 --> 01:02:24,100
+wanted to know about and look at
+how diffuse and direct differs.
+
+1289
+01:02:24,100 --> 01:02:28,470
+I don't think we have a
+sense here of that effect.
+
+1290
+01:02:28,470 --> 01:02:31,170
+Does that answer your
+question to some degree?
+
+1291
+01:02:31,170 --> 01:02:32,086
+AUDIENCE: Some degree.
+
+1292
+01:02:32,086 --> 01:02:34,044
+I don't know if someone
+else wants to add more.
+
+1293
+01:02:34,044 --> 01:02:35,930
+JOE SULLIVAN: [INAUDIBLE]
+after you respond.
+
+1294
+01:02:35,930 --> 01:02:37,410
+JARED: I think it's
+interesting-- I was just
+
+1295
+01:02:37,410 --> 01:02:37,970
+thinking about this.
+
+1296
+01:02:37,970 --> 01:02:40,053
+Something that might be
+interesting to investigate
+
+1297
+01:02:40,053 --> 01:02:42,080
+is concentrated solar.
+
+1298
+01:02:42,080 --> 01:02:44,650
+If it's easier to
+shade, it would
+
+1299
+01:02:44,650 --> 01:02:46,770
+look like a denser system.
+
+1300
+01:02:46,770 --> 01:02:49,310
+So maybe that would be-- maybe
+a concentrated solar farm
+
+1301
+01:02:49,310 --> 01:02:51,920
+might be a bad idea if you
+have lots of little clouds.
+
+1302
+01:02:51,920 --> 01:02:54,890
+So that's something I
+think that you could
+
+1303
+01:02:54,890 --> 01:02:56,354
+expand into from this project.
+
+1304
+01:02:56,354 --> 01:02:58,770
+IBRAHIM: And another thing, I
+guess, to add to your point,
+
+1305
+01:02:58,770 --> 01:03:01,350
+if you look at, I guess,
+solar thermal systems
+
+1306
+01:03:01,350 --> 01:03:04,310
+probably because of the diffuse
+sunlight, the intermittency I
+
+1307
+01:03:04,310 --> 01:03:06,620
+would expect is going
+to be probably less.
+
+1308
+01:03:06,620 --> 01:03:08,870
+You're going to have less,
+or the mean time to failure
+
+1309
+01:03:08,870 --> 01:03:12,080
+is going to be longer,
+so you could maybe
+
+1310
+01:03:12,080 --> 01:03:15,700
+add a solar thermal system, sort
+of balance the power output,
+
+1311
+01:03:15,700 --> 01:03:18,150
+and decrease your
+intermittency even further.
+
+1312
+01:03:22,390 --> 01:03:23,816
+JOE SULLIVAN: Any
+last questions?
+
+1313
+01:03:23,816 --> 01:03:24,668
+No?
+
+1314
+01:03:24,668 --> 01:03:26,890
+All right, let's
+thank our group.
+
+1315
+01:03:26,890 --> 01:03:30,240
+[APPLAUSE]
